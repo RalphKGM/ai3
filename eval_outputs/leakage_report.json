@@ -1,0 +1,367 @@
+{
+  "dev_sources_checked": [
+    "smoke_test"
+  ],
+  "n_dev_questions": 5,
+  "sft_files_found": [],
+  "thresholds": {
+    "jaccard": 0.6,
+    "char3_cosine": 0.8
+  },
+  "n_flagged_near_duplicates": 0,
+  "flagged_near_duplicates": [],
+  "max_similarity_per_test_question": [
+    {
+      "test_id": "u03",
+      "max_char3_cos": 0.426,
+      "jaccard_at_max": 0.16,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t25",
+      "max_char3_cos": 0.382,
+      "jaccard_at_max": 0.167,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t01",
+      "max_char3_cos": 0.374,
+      "jaccard_at_max": 0.107,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "u01",
+      "max_char3_cos": 0.36,
+      "jaccard_at_max": 0.15,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t04",
+      "max_char3_cos": 0.341,
+      "jaccard_at_max": 0.121,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t02",
+      "max_char3_cos": 0.329,
+      "jaccard_at_max": 0.143,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "u10",
+      "max_char3_cos": 0.327,
+      "jaccard_at_max": 0.278,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "u02",
+      "max_char3_cos": 0.317,
+      "jaccard_at_max": 0.045,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t31",
+      "max_char3_cos": 0.316,
+      "jaccard_at_max": 0.065,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t35",
+      "max_char3_cos": 0.31,
+      "jaccard_at_max": 0.091,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t17",
+      "max_char3_cos": 0.306,
+      "jaccard_at_max": 0.069,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What are the qualifications of official watchers under COMELEC Resolution No. 11076?"
+    },
+    {
+      "test_id": "t34",
+      "max_char3_cos": 0.298,
+      "jaccard_at_max": 0.211,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is CEF No. A35 and how many copies are prepared?"
+    },
+    {
+      "test_id": "t40",
+      "max_char3_cos": 0.294,
+      "jaccard_at_max": 0.061,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t11",
+      "max_char3_cos": 0.287,
+      "jaccard_at_max": 0.136,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t38",
+      "max_char3_cos": 0.285,
+      "jaccard_at_max": 0.167,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is CEF No. A35 and how many copies are prepared?"
+    },
+    {
+      "test_id": "t14",
+      "max_char3_cos": 0.27,
+      "jaccard_at_max": 0.107,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What are the qualifications of official watchers under COMELEC Resolution No. 11076?"
+    },
+    {
+      "test_id": "t03",
+      "max_char3_cos": 0.269,
+      "jaccard_at_max": 0.143,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t07",
+      "max_char3_cos": 0.269,
+      "jaccard_at_max": 0.19,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t05",
+      "max_char3_cos": 0.268,
+      "jaccard_at_max": 0.182,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t15",
+      "max_char3_cos": 0.263,
+      "jaccard_at_max": 0.12,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t24",
+      "max_char3_cos": 0.248,
+      "jaccard_at_max": 0.036,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "u05",
+      "max_char3_cos": 0.248,
+      "jaccard_at_max": 0.111,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t37",
+      "max_char3_cos": 0.247,
+      "jaccard_at_max": 0.095,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "u07",
+      "max_char3_cos": 0.24,
+      "jaccard_at_max": 0.125,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t32",
+      "max_char3_cos": 0.237,
+      "jaccard_at_max": 0.115,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t19",
+      "max_char3_cos": 0.236,
+      "jaccard_at_max": 0.042,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What are the qualifications of official watchers under COMELEC Resolution No. 11076?"
+    },
+    {
+      "test_id": "t13",
+      "max_char3_cos": 0.227,
+      "jaccard_at_max": 0.065,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t06",
+      "max_char3_cos": 0.226,
+      "jaccard_at_max": 0.029,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t30",
+      "max_char3_cos": 0.207,
+      "jaccard_at_max": 0.056,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "u04",
+      "max_char3_cos": 0.206,
+      "jaccard_at_max": 0.158,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is CEF No. A35 and how many copies are prepared?"
+    },
+    {
+      "test_id": "t18",
+      "max_char3_cos": 0.204,
+      "jaccard_at_max": 0.136,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t22",
+      "max_char3_cos": 0.197,
+      "jaccard_at_max": 0.148,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is CEF No. A35 and how many copies are prepared?"
+    },
+    {
+      "test_id": "t08",
+      "max_char3_cos": 0.192,
+      "jaccard_at_max": 0.077,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t26",
+      "max_char3_cos": 0.185,
+      "jaccard_at_max": 0.097,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t36",
+      "max_char3_cos": 0.184,
+      "jaccard_at_max": 0.136,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "u09",
+      "max_char3_cos": 0.184,
+      "jaccard_at_max": 0.05,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Who may exercise suffrage under Article V of the 1987 Philippine Constitution?"
+    },
+    {
+      "test_id": "u08",
+      "max_char3_cos": 0.183,
+      "jaccard_at_max": 0.042,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t33",
+      "max_char3_cos": 0.18,
+      "jaccard_at_max": 0.034,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t10",
+      "max_char3_cos": 0.179,
+      "jaccard_at_max": 0.029,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t27",
+      "max_char3_cos": 0.177,
+      "jaccard_at_max": 0.083,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t16",
+      "max_char3_cos": 0.175,
+      "jaccard_at_max": 0.091,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is CEF No. A35 and how many copies are prepared?"
+    },
+    {
+      "test_id": "t09",
+      "max_char3_cos": 0.172,
+      "jaccard_at_max": 0.111,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is CEF No. A35 and how many copies are prepared?"
+    },
+    {
+      "test_id": "t23",
+      "max_char3_cos": 0.169,
+      "jaccard_at_max": 0.0,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t39",
+      "max_char3_cos": 0.168,
+      "jaccard_at_max": 0.04,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t28",
+      "max_char3_cos": 0.157,
+      "jaccard_at_max": 0.103,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What are the qualifications of official watchers under COMELEC Resolution No. 11076?"
+    },
+    {
+      "test_id": "t29",
+      "max_char3_cos": 0.156,
+      "jaccard_at_max": 0.069,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "t12",
+      "max_char3_cos": 0.146,
+      "jaccard_at_max": 0.037,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    },
+    {
+      "test_id": "u06",
+      "max_char3_cos": 0.144,
+      "jaccard_at_max": 0.0,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?"
+    },
+    {
+      "test_id": "t20",
+      "max_char3_cos": 0.104,
+      "jaccard_at_max": 0.036,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What are the qualifications of official watchers under COMELEC Resolution No. 11076?"
+    },
+    {
+      "test_id": "t21",
+      "max_char3_cos": 0.1,
+      "jaccard_at_max": 0.048,
+      "closest_dev_source": "smoke_test",
+      "closest_dev_q": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?"
+    }
+  ],
+  "sft_section_overlap": "SFT files not found locally - rerun with data/sft/ present",
+  "verdict": "PASS"
+}

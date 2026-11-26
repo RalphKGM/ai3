@@ -14,7 +14,8 @@ answerable questions.
 Also writes data/eval/frozen_top5_cache.jsonl (hybrid_rr top-5) so that the
 Qwen and Gemma notebooks generate from identical contexts.
 
-Usage:  .venv/bin/python eval/retrieval_eval.py [--no-rerank] [--no-cache]
+Usage:  python eval/retrieval_eval.py [--no-rerank] [--no-cache]
+        (Colab: run from 05_Evaluate_Test_Set.ipynb, which sets AI3_BASE_DIR)
 """
 from __future__ import annotations
 
@@ -123,8 +124,9 @@ def main():
 
     ans = [r for r in per_q if r["is_answerable"]]
     unans = [r for r in per_q if not r["is_answerable"]]
+    gpu = R.torch.cuda.get_device_name(0) if R.device == "cuda" else R.device
     summary = {"n_questions": len(per_q), "n_answerable": len(ans), "n_unanswerable": len(unans),
-               "device": R.device, "configs": {}}
+               "device": gpu, "dtype": str(R.dtype), "configs": {}}
     for c in configs:
         summary["configs"][c] = {m: mean(r[f"{c}.{m}"] for r in ans)
                                  for m in ["hit@1", "hit@3", "hit@5", "recall@5", "mrr@20", "ndcg@5"]}

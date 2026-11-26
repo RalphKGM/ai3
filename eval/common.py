@@ -8,13 +8,17 @@ bge-reranker-v2-m3 stage-2 rerank down to the top-k.
 from __future__ import annotations
 
 import json
+import os
 import re
 from pathlib import Path
 
 import numpy as np
 
-ROOT = Path(__file__).resolve().parents[1]
-INDEX_DIR = ROOT / "index"
+# Project root. On Colab set AI3_BASE_DIR=/content/drive/MyDrive/AI3_Botobot (the
+# same root the RAG notebooks use); locally it defaults to the repo folder.
+ROOT = Path(os.environ.get("AI3_BASE_DIR", Path(__file__).resolve().parents[1]))
+# Drive layout keeps the index in data/index/, the local repo in index/.
+INDEX_DIR = ROOT / "data" / "index" if (ROOT / "data" / "index").exists() else ROOT / "index"
 EVAL_DIR = ROOT / "data" / "eval"
 OUT_DIR = ROOT / "eval_outputs"
 
@@ -90,14 +94,26 @@ class HybridRetriever:
         self.bm25 = BM25Okapi(json.loads((INDEX_DIR / "bm25_tokens.json").read_text(encoding="utf-8")))
         assert self.index.ntotal == len(self.chunks), "index/chunk count mismatch"
 
+        # Same precision as the RAG notebooks: bf16 on Ampere+ (L4/A100), fp16 on T4, fp32 on CPU.
+        import transformers
+
+        if device == "cuda":
+            dtype = torch.bfloat16 if torch.cuda.get_device_capability(0)[0] >= 8 else torch.float16
+        else:
+            dtype = torch.float32
+        major = int(transformers.__version__.split(".")[0])
+        minor = int(transformers.__version__.split(".")[1])
+        dkw = {"dtype": dtype} if (major, minor) >= (4, 56) else {"torch_dtype": dtype}
+        self.dtype = dtype
+
         self.embed_tok = AutoTokenizer.from_pretrained(EMBED_MODEL_ID)
-        self.embed_model = AutoModel.from_pretrained(EMBED_MODEL_ID).to(device).eval()
+        self.embed_model = AutoModel.from_pretrained(EMBED_MODEL_ID, **dkw).to(device).eval()
 
         self.rerank_tok = self.rerank_model = None
         if load_reranker:
             self.rerank_tok = AutoTokenizer.from_pretrained(RERANK_MODEL_ID)
             self.rerank_model = (
-                AutoModelForSequenceClassification.from_pretrained(RERANK_MODEL_ID).to(device).eval()
+                AutoModelForSequenceClassification.from_pretrained(RERANK_MODEL_ID, **dkw).to(device).eval()
             )
 
     def encode_query(self, query: str) -> np.ndarray:
@@ -132,7 +148,7 @@ class HybridRetriever:
             "rrf": rrf,
         }
 
-    def rerank(self, query: str, idxs: list[int], batch_size: int = 4) -> list[tuple[int, float]]:
+    def rerank(self, query: str, idxs: list[int], batch_size: int = 20) -> list[tuple[int, float]]:
         torch = self.torch
         scored = []
         for s in range(0, len(idxs), batch_size):
