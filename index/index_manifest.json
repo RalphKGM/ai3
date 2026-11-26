@@ -1,0 +1,14 @@
+{
+  "embedding_model": "BAAI/bge-m3",
+  "local_model_dir": "models/bge-m3",
+  "device_used": "cpu",
+  "num_chunks": 551,
+  "embedding_dim": 1024,
+  "max_length_tokens": 1024,
+  "pooling": "cls",
+  "normalized": true,
+  "lexical_index": "BM25Okapi",
+  "fusion": "RRF(k=60)",
+  "default_top_k": 5,
+  "build_seconds": 438.87
+}

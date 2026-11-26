@@ -1,0 +1,998 @@
+REPUBLIC OF THE PHILIPPINES
+COMMISSION ON ELECTIONS
+Intramuros, Manila
+GENERAL INSTRUCTIONS FOR THE ELECTORAL BOARDS ON THE PROCESS OF VOTING, COUNTING, & TRANSMISSION OF ELECTION RESULTS FOR THE 12 MAY 2025 NATIONAL, LOCAL, & BANGSAMORO PARLIAMENTARY ELECTIONS.
+GARCIA, George Erwin M., Chairman; INTING, Socorro B., Commissioner; CASQUEJO, Marlon S., Commissioner; FEROLINO, Aimee P., Commissioner; BULAY, Rey E., Commissioner; MACEDA, JR., Ernesto Ferdinand P., Commissioner; CELIS, Nelson J., Commissioner
+Promulgated: October 30, 2024
+RESOLUTION NO. 11076
+WHEREAS, pursuant to Republic Act No. 8436, as amended by Republic Act No. 9369, the Commission on Elections has adopted a paper-based Automated Election System (AES) using the Automated Counting Machines (ACMs) for the May 12, 2025 National and Local Elections, and BARMM Parliamentary Elections;
+NOW THEREFORE, pursuant to its authority under the Constitution, the Omnibus Election Code, and other election laws, the Commission on Elections RESOLVED, as it hereby RESOLVES, to promulgate the following General Instructions on the Conduct of the Final Testing and Sealing of the ACMs; and the Voting, Counting, and Transmission of election results:
+
+ARTICLE I DEFINITION OF TERMS
+
+SECTION. 1. Definition of Terms. - As used in this Resolution, the following terms shall mean:
+(a) Accessible Polling Place (APP) refers to the venue where the Electoral Board (EB) conducts election-related proceedings for voters who are Persons with Disability and Senior Citizens (SC) and who have previously manifested to cast their votes in an APP. The APP shall be located at the ground floor, preferably near the entrance of the building, free of any physical barriers, and provided with necessary services including assistive devices.
+(b) Accessible Voting Center (AVC) refers to the established voting centers for Indigenous Peoples (IPs) located near or in their communities where they shall cast votes on election day.
+(c) Automated Counting Machine (ACM) refers to the voting machine that will be used in the 2025 National, Local, and Bangsamoro Parliamentary Elections.
+(d) Clustered Precinct refers to the group of established precincts located within the same barangay and voting center.
+(e) Clustered-Separate Polling Place (C-SPP) refers to a clustered precinct within the voting center with less than 150 IP voters voting in the same clustered precinct with regular voters. There shall be an adjoining Separate Voting Room (IP-SVR) for IP voters of this clustered precinct.
+(f) Commission or COMELEC refers to the Commission on Elections.
+(g) Election Day Computerized Voters' List (EDCVL) refers to the computerized list of registered voters in a precinct, with their photographs and signatures, which shall be used by the Electoral Board on Election Day to identify voters and to record their act of voting.
+(h) Electoral Board (EB) refers to the body duly constituted by the Commission who will conduct the Final Testing and Sealing (FTS), voting, counting, and transmission of election results.
+(i) Exclusive-Separate Polling Place (E-SPP) refers to a clustered precinct within the voting center with 150 or more Indigenous People voters assigned. An E-SPP shall be allocated its own Automated Counting Machine (ACM).
+(j) IP (Indigenous People) Voter refers to a registered voter who belongs to an Indigenous Cultural Community (ICC) and who has indicated the same in the Revised Application Form or Supplementary Data Form,
+(k) Jail Administrator refers to the highest official of the Bureau of Jail Management and Penology (BJMP), the Bureau of Corrections (BuCor), Philippine National Police (PNP) Custodial Facilities, and Provincial Jails in a district/city / municipality.
+(l) Non-Manifest Disability refers to a type of disability which is not apparent from the physical appearance of a person;
+(m) NTSC refers to the National Technical Support Center, where all AES-related issues and concerns nationwide are reported, addressed, and resolved.
+(n) Person Deprived of Liberty (PDL) Voter refers to a registered voter who is:
+(1) Confined in jail, formally charged for any crime/s and awaiting/ undergoing trial; or
+(2) Serving a sentence of imprisonment for less than one (1) year; or
+(3) Whose conviction of a crime involving disloyalty to the duly constituted government such as rebellion, sedition, violation of the firearms laws or any crime against national security or for any other crime is on appeal.
+(o) Person with Disability refers to a registered voter who:
+(1) Is listed as "PWD" in the list of voters or whose disability is manifest on election day; or
+(2) Has a long-term physical, mental, intellectual, or sensory impairments which, in interaction with various barriers, may hinder their full and effective participation in the electoral process on an equal basis with others.
+(p) Polling Place refers to the place where the EB conducts its proceeding and where the voters cast their votes.
+(q) Posted Computerized Voters' List (PCVL) refers to the computerized list of voters posted outside each polling place.
+(r) Priority Polling Place (PPP) refers to rooms or makeshift/temporary polling place established at the ground floor of a voting center specifically for the following:
+(1) Persons with Disability and/or Senior Citizens who did not avail of APPs;
+(2) Persons with Disability who failed to update their voter registration record;
+(3) Persons who became disabled/incapacitated temporarily or permanently after the continuing registration of voters ended; and
+(4) Pregnant voters.
+(s) PPP/Satellite-PPP Support Staff (PPP/S-PPP SS) refers to the Support Staff and Aide appointed to supervise the voting in the PPP/S-PPP.
+(t) Satellite-Priority Polling Place (S-PPP) refers to a PPP temporarily established in a building used as an assisted living facility for Persons with Disability or for Senior Citizens.
+(u) Senior Citizen (SC) refers to a qualified voter whose age is sixty (60) years or above.
+(v) Separate Polling Place for Indigenous People (IP-SPP) refers to a polling place established for IPs within a voting center. An SPP is either an: (i) Exclusive-SPP (E-SPP); or (ii) Clustered-SPP (C-SPP).
+(w) Separate Voting Room for Indigenous People (IP-SVR) refers to an adjoining (class) room exclusively devoted for IP voters belonging to a C-SPP.
+(x) Special Electoral Board for PDL (SEB-PDL) refers to a body composed of three (3) members, which conducts and supervises the voting in a PDL-Special Polling Place (PDL-SPP) located inside a jail facility / detention center.
+(y) Uniformed Personnel refers to uniformed personnel of the BJMP, BuCor, PNP, or Provincial Jails who are deputized to assist in the conduct of voting, escort the PDL Support Staff (PDL-SS) on election day inside the jail facility / detention center or PDL voters availing of the provisions of PDL Escorted Voting under Rule VI of this Resolution.
+(z) Voter-Verified Paper Audit Trail (VVPAT) refers to the voter receipt that is generated by the ACM after the feeding of a valid ballot.
+(aa) Voting Center refers to the building or place where the polling place is located.
+
+ARTICLE II ELECTORAL BOARD, DepEd SUPERVISING OFFICIAL, & SUPPORT STAFF
+
+SEC. 2. Powers, Duties, and Functions of the Electoral Board. - The Electoral Board (EB) shall have the following powers, duties, and functions, among others:
+(a) Act as deputies of the COMELEC in the supervision and control of the conduct of elections in the polling place;
+(b) Conduct the Final Testing and Sealing of the Automated Counting Machines (ACMs);
+(c) Conduct the voting in the polling place and administer the electronic counting of votes;
+(d) Be responsible and accountable for all the ACM kits received pursuant to the checklist inside the ACM case while the same are in their custody;
+(e) Maintain order within the polling place and its premises to keep an open and unobstructed access thereto;
+(f) Enforce obedience to its lawful orders. If any person refuses to obey the lawful orders of the EB or conducts in a disorderly manner in its presence or within its hearing and thereby interrupts or disturbs its proceedings, the EB may issue an order in writing directing any peace officer to take such person into custody until the adjournment of the meeting, provided that the order shall not be executed as to prevent such person from voting. In the absence of any peace officer, the order may be executed by any other competent and able person deputized by the EB in writing. The template of the Written Order, hereto attached as "ANNEX A," shall be attached to the Minutes; and
+(g) Perform such other functions prescribed by law or by the rules and regulations promulgated by the Commission.
+
+SEC. 3. Composition of the Electoral Board. - The EB shall be composed of a Chairperson, Poll Clerk, and Third Member. In all cases, at least one (1) member of the EB should be an information technology (IT) capable person trained for the purpose and certified as such by the Department of Science and Technology (DOST). The Special Electoral Board (SEB) for PDL Voting shall have the same composition as the regular EB but shall not be required to have an IT-capable member who to undergo DOST certification.
+
+SEC. 4. Voting Privilege of the Members of the Electoral Board. - Members of the EB may vote in the polling place where they are assigned on election day, provided that:
+(a) They are registered voters of the city within the same legislative district or municipality where they are assigned;
+(b) They have not availed of the local absentee voting; and
+(c) They shall add their names and precinct numbers and the place where they are actually registered in the EDCVL and note such fact in the Minutes. Any member of the EB, who is a registered voter of another legislative/ councilor district within the same city or municipality, may vote in the polling place where they are actually registered, provided that:
+(a) The voting in their place of assignment is light;
+(b) Their absence shall not be for more than thirty (30) minutes;
+(c) The members of the EB shall schedule the voting so that only one (1) member shall leave at any given time;
+(d) They must be given priority in voting; and
+(e) The fact that they exercised their voting privilege shall be noted in the Minutes; For this purpose, if the Chairperson exercises this privilege, the Poll Clerk shall act as the Acting Chairperson. In the alternative, the EB may avail of local absentee voting pursuant to the pertinent COMELEC Resolution on the same.
+
+SEC. 5. Meetings of the Electoral Board. - The meetings of the EB shall be public and held only in the polling place authorized by the Commission. The EB shall act through its Chairperson and, without delay, decide by majority vote all questions that may arise in the performance of its duties.
+
+SEC. 6. Prohibition on Partisan Political Activity. - No member of the EB or SEB shall engage in any partisan political activity or take part in the election, except to vote and discharge his/her duties as such.
+
+SEC. 7. Temporary Vacancies in the Electoral Board. - If at the time of the meeting of the EB, any member is absent or a position in the EB is still vacant, the members present shall call upon the substitute of the absent member to perform the duties of the latter. In case such substitute cannot be found, the members present shall appoint any qualified non-partisan registered voter of the polling place to temporarily fill in said vacancy until the absent member appears or the vacancy is filled. In case there are only two (2) members present, they shall act jointly.
+
+SEC. 8. Arrest of Absent EB Member. - The member or members of the EB present may order the arrest of any member or substitute thereof, who, in the member's or members' judgment, is absent with the intention of obstructing the performance of the duties of the EB.
+
+SEC. 9. Relief and Substitution of the Members of the Electoral Board. - The members of the EB shall not be relieved or substituted unless otherwise disqualified.
+
+SEC. 10. Support Staff of the Electoral Board and Special Electoral Board (SEB). - The Election Officer (EO) shall, during the period for the constitution and appointment of the EB, appoint Support Staff to assist the EB in the performance of its duties. The allowed number of Support Staff that may be appointed per EB are as follows:
+[TABLE: Allowed EB Support Staff per Clustered Precinct]
+Number of Established Precincts in the Clustered Precincts | Number of Allowed EB Support Staff per Clustered Precinct
+1 to 3 | 1
+4 | 2
+5 or more | 3 (maximum)
+[END TABLE]
+The EB Support Staff cannot participate in the deliberation of the EB or vote on any issue or question that may arise during the proceedings. In case of absence of any of the Support Staff on the day of the election, the EB, by majority vote, may designate a substitute who:
+(a) is at least eighteen (18) years of age but need not be a registered voter of the city or municipality;
+(b) must be of good moral character and irreproachable reputation;
+(c) is of known integrity and competence;
+(d) has never been convicted of any election offense or of any crime punishable by more than six (6) months of imprisonment, or has no pending Information for any election offense; and
+(e) is able to speak and write Filipino, English, or the local dialect. For the SEB-PDL Support Staff, the allocation will be as follows:
+[TABLE: Allowed PDL Support Staff to the SEB]
+Total No. of Clustered Precincts in a Voting Center | Total Number of Allowed PDL Support Staff to the SEB
+1 - 10 | 1
+11 - 20 (and so forth following the same ratio) | 2
+[END TABLE]
+
+SEC. 11. Department of Education/Ministry of Basic, Higher, and Technical Education Supervising Official, and Support Staff; Composition, and Functions. - The number of DESO and Support Staff (technical and administrative) to be appointed shall be in accordance with the following tables:
+A. For DESO and DESO Administrative Support Staff:
+[TABLE: Allowed DESO and DESO Administrative Support Staff]
+Number of Clustered Precincts in the Voting Center | Total Number of Allowed DESO | Total Number of Allowed DESO Administrative SS
+1 - 10 | 1 | 1
+11 - 20 | 2 | 2
+21 - 30 | 3 | 3
+31 - 40 (and so forth using the same ratio) | 4 | 4
+[END TABLE]
+B. For DESO Technical Support Staff:
+[TABLE: Allowed DESO Technical Support Staff]
+Number of Clustered Precincts in the Voting Center | Total Number of Allowed DESO Technical SS
+1 - 5 | 1
+6 - 10 | 2
+11 - 15 | 3
+16 - 20 (and so forth using the same ratio) | 4
+[END TABLE]
+The DESO, in coordination with the EO, shall:
+(a) Plan, organize, lay-out, and supervise the setting up of a Voters' Assistance Desk (VAD) at the voting center to assist voters in locating their polling places or precinct assignments, including APPs and PPPs;
+(b) Supervise the strategic posting by the DESO Administrative SS of the layout of the voting center indicating/showing the location of the polling places of the clustered precincts in the voting center, as well as the posting of other signages, which shall guide the voters in going to their respective polling places;
+(c) Ensure that the EBs attach securely, as much as practicable, each page of the PCVL to any space outside the polling place accessible to the voters;
+(d) Plan, organize, and supervise the crowd management at the ingress and egress areas of the voting centers;
+(e) Maintain a list of technical personnel, as well as PNP and Armed Forces of the Philippines (AFP) personnel, assigned in the voting centers for efficient coordination;
+(f) Supervise and maintain the APP and PPP, as the case may be, in the voting center;
+(g) Serve as the contact and point person of the EO in the voting center;
+(h) Supervise the Technical and Administrative Support Staff in the exercise of their duties and functions as provided in the succeeding section of this Resolution;
+(i) Designate each DESO Technical Support Staff to their respective clustered precincts; and
+(j) Perform such other functions prescribed by law or by the rules and regulations promulgated by the Commission.
+
+SEC. 12. DESO Technical Support Staff; Duties and Functions. - The duties and functions of the DESO Technical Support Staff are as follows:
+(a) Report during the scheduled FTS and on Election Day in the voting center where they are assigned; "4 iy)
+(b) Remain in the assigned voting center for the entire duration of the FTS; and on Election Day, until all the activities are concluded;
+(c) Report to the NTSC and EO during the conduct of the FTS and on Election Day the following:
+(1) Date and time of arrival at the voting center;
+(2) Date and time of successful installation of the ACM of the clustered precinct/s under his/her jurisdiction;
+(3) Date and time of the start of voting of the clustered precinct/s under his/her jurisdiction;
+(4) Date and time of the close of voting of the clustered precinct/s under his/her jurisdiction;
+(5) The status of transmission of the clustered precinct/s on Election Day under his/her jurisdiction;
+(6) Missing items in the ACM case of the clustered precincts under his/her jurisdiction, if any;
+(7) Defective storage device for replacement; and
+(8) All other information or reports that may be required of them.
+(d) Assist the EB in the installation of ACM, if so required.
+(e) Troubleshoot the ACM in case of technical issues and provide solution. In case the technical issues cannot be resolved, refer to the NTSC for the proper resolution.
+
+SEC. 13. Entitlement of Honoraria, Allowances, Service Credits, and Other Benefits. - Persons rendering election-related service shall be entitled to the following:
+(a) Compensation composed of Honoraria and Allowances. - The Chairperson and Members of the EB, including Special Electoral Board (SEB), the DESO, their respective Support Staff and other Support Staff shall be entitled to compensation depending on their roles, which is inclusive of honoraria, travel, communication, and meal allowances:
+[TABLE: Total Compensation (Gross Amount) per Role]
+Role | Total Compensation (Gross Amount)
+Chairperson of the EB/SEB | PHP 12,000.00
+Members of the EB/SEB | PHP 11,000.00
+EB/SEB Support Staff | PHP 8,000.00
+IP-SVR Support Staff | PHP 8,000.00
+PPP/S-PPP Support Staff & Aide | PHP 8,000.00
+DepEd Supervising Official (DESO) | PHP 11,000.00
+DESO Technical Support Staff | PHP 9,000.00
+DESO Administrative Support Staff | PHP 8,000.00
+[END TABLE]
+(b) Service Credit. - A minimum of five (5) days service credit shall accrue to all government officials and employees serving as EB, SEB, DESO, and Support Staff. The honoraria and allowances mentioned herein shall be paid within fifteen
+(15) days from the date of election.
+
+ARTICLE III WATCHERS
+
+SEC. 14. Official Watchers of Candidates, Political Parties, and Other Groups. - Each candidate, duly registered political party or coalition of political parties, associations, or organizations participating in the Party-List System, and duly accredited citizens' arms, may appoint in every polling place two (2) watchers who shall serve alternately. However, candidates for Senator, Member of the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang Bayan belonging to the same party or coalition, shall collectively be entitled to one (1) watcher. Other civic, religious, professional, business, service, youth, and any other similar organizations shall be entitled collectively to appoint one (1) watcher in every polling place with prior authority of the Commission. If the space in a polling place reserved for watchers is insufficient, preference shall be given to the watchers of the dominant majority and dominant minority parties, as determined by the Commission. Watchers of the citizens' arms shall be given preferential position closest to the EB.
+
+SEC. 15. Watchers. - The following persons are qualified to serve as watchers:
+(a) Registered voter of the city or municipality where the watcher is assigned,
+(b) Of good moral character;
+(c) Able to read and write Filipino, English, or the prevailing local dialect;
+(d) Provided that they have not been convicted by final judgment of any election offense or of any other crime, and not related within the fourth
+(4) civil degree of consanguinity or affinity to the Chairperson, or any other member of the EB in the polling place where they seek appointment as watchers.
+(e) Provided further, that under no circumstances shall barangay officials or their employees, including barangay tanods, be appointed as watchers.
+
+SEC. 16. Rights and Duties of Watchers. - Upon entering the polling place, the watchers shall present to the Chairperson of the EB their appointments as watchers and proof that they are registered voters of the city or municipality where they are assigned. Their names shall be recorded in the Minutes with a notation under their signatures that they are not disqualified to serve as such in accordance with the immediately preceding Section. The appointments of the watchers shall bear the signature of the candidate or duly authorized representative of the party, organization or coalition of parties, associations, or organizations participating in the Party-List System that appointed them. At least fifteen (15) days before Election Day, independent candidates, and duly registered parties, organizations, or coalitions, coalition of parties, associations, or organizations participating in the Party-List System shall provide the EO concerned with the names and signatures of their representatives authorized to appoint watchers and the list of names of watchers per clustered precinct in the city or municipality of the polling place of their watchers indicating their specific assigned polling place. The watchers shall have the right to:
+(a) Stay in the space reserved for them inside the polling place, except in case where the space provided is insufficient, in which case, preference shall be given to the citizen's arm, dominant majority, and dominant minority parties;
+(b) Witness the proceedings of the EB;
+(c) Take note of what they see or hear;
+(d) Take photos or videos of the proceedings and incidents, if any, during FTS, counting of votes, transmission, and printing of election returns (ERs), and the scanning of the VVPAT provided the secrecy of the ballot shall be maintained at all times. In no case shall taking of pictures, images, photos, or videos while the voter is shading the ballot and feeding the same in the ACM be allowed. Violation of this paragraph shall constitute an election offense.
+(e) File a protest against any irregularity or violation of law which they believe may have been committed by the EB or by any person present;
+(f) Obtain from the EB a certificate as to the filing of such protest and/or the Resolution thereof; and
+(g) Position themselves near the Chairperson of the EB, while the Chairperson is publicly announcing the precinct results. Watchers are not allowed to speak to any member of the EB, to any voter, or among themselves, in a manner that would disrupt the proceedings of the EB. The watchers representing the dominant majority and dominant minority parties, and the citizen's arm shall, if available, affix their signatures and thumbmarks in the ERs.
+
+ARTICLE IV FINAL TESTING AND SEALING
+
+SEC. 17. Period for Final Testing and Sealing (FTS) of ACMs; Notice. - On any scheduled day from 02 May 2025 (Friday) to 07 May 2025 (Wednesday), the EB shall convene at the designated polling place to test and seal the ACM assigned to its clustered precinct. In case the FTS of the ACMs cannot be done during the said schedule, the Commission has the option to conduct the same on any day from May 8, 2025 until the election day. If the reason for such is due to security and/or other practical concerns, the EO may order the conduct of the FTS in the nearest voting center subject to the approval of the concerned PES, or the RED in the case of NCR, Zamboanga City, and Davao City. The members of the EB, DESO, and their respective Support Staff shall be notified by the EO, in writing, of the date, time, and place of the FTS of the ACM not later than three (3) days before the schedule of FTS. The candidates, registered political parties, coalition of political parties, associations, or organizations participating in the party-list system representation in the city or municipality, or accredited citizens' arms, shall, likewise, be notified by the EO by posting a notice of the date, time, and place of the FTS for each clustered precinct in the bulletin boards of the OEO and of the city or municipal hall, and in at least three (3) conspicuous places in the city or municipality, not later than three (3) days before the schedule of PIS.
+
+SEC. 18. Procedures for the Final Testing and Sealing of the ACM. - The EB shall observe the following procedures for the FTS of the ACM:
+(a) Explain to those present the purpose of and the procedures for the FTS;
+(b) Perform the FTS following the ACM OPERATION PROCEDURES hereto attached as "ANNEX B;" and
+(c) Randomly choose ten (10) persons, from among those present, who will accomplish the ballots to be used for FTS. If there are less than ten (10) persons present, any of them may accomplish more than one (1) ballot to complete the ten (10) ballots. To accomplish the ballots, the Chairperson shall give each of the ten (10) persons a ballot inside the ballot secrecy folder and a marking pen. Using the marking pen, they shall accomplish the ballot by fully shading the circle opposite the names of the candidates, including that of the party, organization, or coalition participating in the party-list system of representation. Thereafter, they shall return the accomplished ballot inside the ballot secrecy folder and the marking pen to the Chairperson. For the voters in the BARMM, two (2) ballots shall be used during the FTS: one containing the NLE candidates, and the other containing the names of the candidates for members of the Bangsamoro Parliament. The Chairperson shall:
+(a) Examine the accomplished ballot and determine whether the circle opposite the names of the candidates/ political parties participating in the party-list system have been fully shaded; and the security features (timing marks, barcodes, and QR codes) have not been damaged;
+(b) Return the accomplished ballot inside the ballot secrecy folder and give the same to the voter who shall personally feed the accomplished ballot into the ACM;
+(c) Instruct the persons to verify the votes as appearing on the VVPAT and place the same in the VVPAT receptacle;
+(d) Perform the same procedures in "a", "b", and "c" until all ten (10) ballots are fed;
+(e) Follow the instructions on the closing of polls and the printing of election returns after all the ten
+(10) ballots have been fed;
+(f) Perform VVPAT audit and print VVPAT audit report; and
+(g) Conduct Manual Verification of Results following the procedures in the immediately succeeding section.
+
+SEC. 19. Manual Verification of Results. - The EB shall retrieve the accomplished ballots from the ballot box, manually count the votes therein, and accomplish the manual ERs provided for the purpose. The following rules shall be observed in the manual counting of votes:
+(a) The Chairperson shall verify the ballots to determine whether there is over-voting (when the number of votes for a position exceeded the number of ballots). If there is an over-vote in a position, no vote shall be counted in favor of any candidate for the said position;
+(b) The Chairperson shall take the ballots one by one, and read the names of the candidates voted for and the position for which they were voted to, in the order in which they appear thereon;
+(c) The Poll Clerk shall record on the manual ER the vote as the names voted for each position are read. Each vote shall be recorded by a vertical line, except every fifth (5) vote which shall be recorded by a diagonal line crossing the previous four (4) vertical lines;
+(d) After finishing the ten (10) ballots, the Poll Clerk shall determine the total number of votes obtained by each candidate;
+(e) The EB shall sign the certification portion of the ERs generated by the ACM, manually prepared ERs, and the VVPAT audit report; and
+(f) The EB shall compare the results derived from the ERs generated by the ACM, the manually prepared ERs, and the VVPAT Audit Report. If the results are the same, perform the re-zero procedure, and shut down the ACM following the steps in the ACM OPERATION PROCEDURES ("ANNEX B"). a If the results are not the same, the EB shall re-appreciate the ballots and review the VVPAT to determine the discrepancy. If there is still a discrepancy, the EB shall call on the assigned DESO technical Support Staff for technical assistance. The DESO technical Support Staff shall report such incident to the NTSC and the EO concerned. Once the discrepancy is resolved, perform the re-zero procedure, and shut down the ACM following the steps in the ACM OPERATION PROCEDURES ("ANNEX B"). In no case shall there be transmission of votes done during the FTS of ACM.
+(g) Place the counted ballots, VVPAT, manually-prepared ERs, ACM-generated ERs, VVPAT Audit Report, and all other reports generated by the ACM, in the envelope provided for the purpose.
+
+SEC. 20. Minutes of Final Testing and Sealing of ACM, Voting, Counting, and Transmission of Votes. - The EB shall record in the Minutes (CEF No. A11) all the acts or data required to be entered under this Resolution as soon as they occur or become available.
+
+SEC. 21. Disposition of Forms/Supplies. - After the FTS, the EB shall:
+(a) Ensure that the ACM is placed in the ACM case which should be properly sealed and secured. Thereafter, leave the ACM case, ballot box, VVPAT receptacle, and external battery inside the polling place or any secured room in the voting center.
+(b) Submit to the EO the Envelope for Counted FTS Ballots, FTS Election Returns, and Other Reports (CEF No. A17-FTS) containing the following and seal the same with a paper seal (CEF No. A12):
+(1) Diagnostic Report;
+(2) Initialization Report;
+(3) Nine (9) copies of National and Local Returns;
+(4) Manual ER;
+(5) Counted ballots;
+(6) VVPAT; and
+(7) VVPAT Audit Report. The EO shall keep the above documents until further instructions from the Commission.
+
+SEC. 22. ACM to be Opened on 12 May 2025. - After FTS, the ACM shall not be opened earlier than four o' clock in the morning (4:00 AM) on 12 May 2025.
+
+ARTICLE V GENERAL PROVISIONS ON VOTING
+
+SEC. 23. Election Day. - The elections shall be held on 12 May 2025.
+
+SEC. 24. Early Voting Hours. - The early voting hours shall be from five 0' clock in the morning (5:00 AM) to seven o' clock in the morning (7:00 AM), which shall be devoted exclusively for persons with disability, senior citizens, including their assistors, if any, and pregnant voters. The assistors may also be allowed to vote during this time, provided that they are registered voters of the same polling place. Persons with disability, senior citizens, and pregnant voters, if qualified under Section 48 of this Resolution, may also opt to vote in the Priority Polling Place, if established in their voting center starting from five o' clock in the morning (5:00 AM) to five o' clock in the afternoon (5:00 PM).
+
+SEC. 25. Regular Voting Hours. - The regular voting hours shall be from seven 0' clock in the morning (7:00 AM) to seven o' clock in the evening (7:00 PM). Persons with disability, senior citizens (SCs), and pregnant voters shall continue to enjoy the priority lane at the polling places from seven o' clock in the morning (7:00 AM) to seven o' clock in the evening (7:00 PM) on election day. Voters who have not yet cast their votes but are within the thirty (30)-meter radius in front of the polling place by seven o' clock in the evening (7:00 PM) of Election Day shall still be allowed to cast their votes. The Poll Clerk shall promptly prepare a complete list in duplicate containing the names of said voters numbered consecutively. The voters so listed shall be called to vote by the Poll Clerk by announcing near the door of the polling place, in a tone loud enough to be heard throughout the polling place, each name three (3) times in the order in which they are listed. Any voter in the list who is not present or does not respond when called shall no longer be allowed to vote. The said list shall be attached to the Minutes.
+
+SEC. 26. Place of Voting. - Voters shall cast their votes in the voting center designated by the Commission. The poster indicating the clustered precinct number (CEF No. A3) shall be prominently posted near or on the door of the Ha polling place. In no case shall there be a closed-circuit television (CCTV) inside the polling place.
+
+SEC. 27. Voters' Assistance Desk. - There shall be, in each voting center, a VAD to be manned by the citizens' arms accredited by the Commission for the purpose. The VADs shall be under the supervision and control of the DESO. They shall assist voters in ascertaining their precinct number, sequence number, and the direction to their polling place. In case there are no available accredited citizens' arms to man the VAD, the EO may enter into a MOA with a non-partisan NGO, CSO, or other organizations available in their respective areas of responsibility to man the VAD.
+
+ARTICLE VI MANNER OF VOTING
+
+SEC. 28. Who may Vote. - All registered voters whose names appear in the EDCVL may vote in the 2025 NLE and Bangsamoro Parliamentary Election, unless their names are manually crossed out from the same list with the following annotations, duly signed by the EO:
+(a) The voter's name was ordered excluded from the list by a proper court;
+(b) The voter has applied for the Local Absentee Voting; or
+(c) The voter has been certified as an overseas voter as reflected in the Registry of Overseas Voters (ROV) received by the OEOs after the voter registration period.
+
+SEC. 29. Challenge Against Illegal Voters. - Any person who wants to cast his/her vote may be challenged by any voter or watcher on the following grounds:
+(a) Being not registered;
+(b) Using the name of another; or
+(c) Having an existing disqualification. In such cases, the EB shall determine the truthfulness of the ground for the challenge by requiring proof of registration, identity, or qualification. Incase the identity of the voter is challenged, the EB shall identify the voter's specimen signature and photo in the EDCVL. In the absence of any of the above-mentioned proof of identity, any member of the EB may identify under oath a voter personally known to the former, which act of identification shall be recorded in the Minutes.
+
+SEC. 30. Challenge Based on Certain Illegal Acts. - Any person who wants to cast his/her vote may be challenged by any voter or watcher on the following grounds:
+(a) Received or expects to receive, paid, offered, or promised to pay, contributed, offered or promised to contribute money or anything of value as consideration for his/her vote or for the vote of another;
+(b) Made or received a promise to influence the giving or withholding of any such vote; or
+(c) Made a bet or is interested directly or indirectly in a bet that depends upon the results of the election. In such cases, the challenged voter may take an oath before the EB that said voter has not committed any of the acts alleged in the challenge. Upon taking such oath, the challenge shall be dismissed, and the voter shall be allowed to vote. In case the voter refuses to take such oath, the challenge shall be sustained, and the voter shall not be allowed to vote.
+
+SEC. 31. Record of Challenges and Oaths. - The EB shall record in the Minutes all challenges and oaths taken, and its decision in each case.
+
+SEC. 32. Rules to be Observed During the Voting. - During the voting, the EB shall see to it that:
+(a) Voters shall vote in the order of their arrival in the polling place. Giving numbers to the voters to determine their sequence of voting is strictly prohibited;
+(b) No watcher shall enter the place reserved for the voters and the EB, or mingle and talk with the voters;
+(c) No person carrying any firearm or any other deadly weapon, except jail/ prison escorts and those expressly authorized by the Commission, shall enter the polling place. The jail/ prison escorts may bring firearms inside the polling place to secure the person deprived of liberty (PDL) voter who will vote in the polling place. Said escorts and PDLs shall immediately leave the polling place once the latter have finished voting;
+(d) There shall be no crowding of voters and disorderly behavior inside the polling place;
+(e) There shall be a maximum of twenty (20) voters at any given time, depending on the area of the polling place, with seats reserved for Senior Citizens, Persons with Disabilities, and Pregnant voters;
+(f) The ballot box shall remain locked during the voting. However, if it should become necessary to make room for more ballots, the EB shall, in the presence of the watchers:
+(1) Remove the ACM from the top of the ballot box without removing the ballot box cover, and shake the ballot box to wobble the contents therein, and make room for the ballots;
+(2) If still the ballot cannot go through the ballot box, the ballot box may be opened. The Chairperson shall press down the ballots contained therein without removing any of them. After which, the EB shall close the box by sealing it. Such fact shall be recorded in the Minutes.
+
+SEC. 33. Persons Allowed Inside the Polling Place. - Only the following persons shall be allowed inside the polling place:
+(a) Members of the EB and Support Staff, if any;
+(b) Watchers who shall stay only in the space reserved for them;
+(c) Representatives of the Commission;
+(d) DESO Technical/ Administrative Support Staff assigned in the voting center;
+(e) PPP Support Staff;
+(f) Voters casting their votes and their assistors, if any;
+(g) Voters waiting for their turn to cast their vote;
+(h) Jail/Prison Escorts escorting PDL voters;
+(i) Commission on Human Rights representative/s;
+(j) National Commission on Indigenous Peoples representative/s; or
+(k) Other persons who may be specifically authorized by the Commission.
+
+SEC. 34. Persons Not Allowed to Enter the Polling Place. - Unless specifically authorized by the Commission, it is unlawful for the following persons to enter the polling place, or to stay within a radius of fifty (50) meters from the polling place, except to vote:
+(a) Any officer or member of the AFP or the PNP;
+(b) Any peace officer or any armed person belonging to any extra-legal police agency, special forces, reaction forces, strike forces, Civilian Armed Force Geographical Units (CAFGUs), barangay tanods, or other similar forces or para-military forces, including security guards, and special policemen; or
+(c) All other kinds of armed or unarmed extra-legal police forces. However, if it deems necessary, the EB may, by a majority vote, order in writing the detail of policemen or peace officers for its protection or for the protection of the election documents and paraphernalia. In which case, the said policemen or peace officers shall stay outside the polling place within a radius of thirty (30) meters near enough to be easily called by the EB at any time, but never at the door, and in no case shall the said policemen or peace officer hold any conversation with any voter and disturb, prevent, or in any manner obstruct the free access of the voters to the polling place. Such order shall be recorded in the Minutes.
+
+SEC. 35. Holding Area. - The EB, whenever practicable, in coordination with the DESO, may designate an adjacent room - with ample space and accessible to wheelchair users, if available, to be used as the holding area. The holding area shall be used by the voters waiting for their turn to vote. The voters shall sit and arrange themselves on a first-come, first-served basis, such that they will vote according to the sequence of their arrival. Voters in the holding area shall be assisted by the EB Support Staff.
+
+SEC. 36. Prohibitions on Voting. - It shall be unlawful for a voter to:
+(a) Bring the ballot, ballot secrecy folder, VVPAT, or marking pen outside of the polling place except in the case of voting in a PPP;
+(b) Speak with anyone other than the members of the EB or the assistor, if applicable, while inside the polling place;
+(c) Prepare the ballot without using the ballot secrecy folder, or to exhibit its contents; PI 7 ,
+(d) Fill out the ballot accompanied by another, except in the case of voting by assistor pursuant to Section 36 of this Resolution;
+(e) Erase any printing from the ballot, or put any distinguishing mark on the ballot;
+(f) Use image-capturing devices such as but not limited to digital cameras, cellular phones with camera, or other means to copy the contents of the ballot, or otherwise make use of any other scheme to identify his/her vote;
+(g) Intentionally tear or deface the ballot; or
+(h) Disrupt or attempt to disrupt the normal operations of the ACM.
+
+SEC. 37. Preparation of Ballots for Illiterate, Persons with Disability, and Senior Citizens by an Assistor. - No voter shall be allowed to vote as an illiterate, person with disability, or senior citizen unless such fact is indicated in the EDCVL, or although not indicated as a person with disability in the EDCVL, when the disability is readily apparent. If so, such voter may be aided in the preparation of the ballot, by an assistor of voting age, in the following order:
+(a) Relative within the 4" civil degree of consanguinity or affinity;
+(b) Person of his confidence who belongs to the same household as that of the voter. For this purpose, the person who usually assists the person with disability or the senior citizen, such as a personal assistant, caregiver, or a nurse shall be considered as a member of the voter's household;
+(c) Any member of the EB. A voter with physical impairment may be assisted in feeding the ballot into the ACM by the EB member. The EB member shall ensure that the contents of the ballot are not displayed during its feeding into the ACM. In which case, this fact must be recorded in the Minutes. No person, except the members of the EB, may assist an illiterate, person with disability, or senior citizen more than three (3) times. In all cases, the Poll Clerk shall first verify from the illiterate, person with disability, or senior citizen whether said voter authorized a person to help him/her cast his/her vote. If the voter denies the authority of the assistor, Lan A & any member of the EB may assist such illiterate, person with disability, or senior citizen. The same shall be recorded in the Minutes. The person assisting the illiterate, person with disability, or senior citizen shall:
+(a) Prepare, in their presence, the ballot using a ballot secrecy folder; and
+(b) Bind themselves in writing and under oath to fill out the ballot strictly in accordance with the instructions of the voter and not to reveal its contents, by indicating the appropriate data and affixing their signatures, thumbmark, or any available fingerprint if without a thumb, in the corresponding space in the Minutes. The assistor may also be allowed to vote immediately after the person they are assisting has finished voting, provided that the assistor is a registered voter in the same polling place as the person being assisted.
+
+SEC. 38. Location of Accessible Polling Place - The accessible polling place in a clustered precinct shall be located at the ground floor of the voting centers, preferably near the entrance of the building, and is free of any physical barriers and provided with necessary services including assistive devices. The EB shall set up a separate holding area in said polling place for the exclusive use of persons with disability and senior citizens. Accordingly, the EOs shall coordinate with the proper school or building officials.
+
+SEC. 39. Express Lane for Persons with Disability, Senior Citizens, Pregnant Voters, Escorted PDL Voters, and Indigenous People. - In regular polling places, persons with disability, senior citizens, pregnant women, escorted PDL, and IP voters shall be afforded an express lane and be allowed to vote as soon as they arrive. There shall be a sign inside the polling place indicating the location of the express lane and who can avail of it.
+
+SEC. 40. Prohibition Against Premature Announcement of Voting. - The members of the EB are prohibited from announcing the following matters during the voting period:
+(a) Whether a certain registered voter already voted or not;
+(b) The number of registered voters who already voted or failed to vote thus far; or
+(c) Any other fact tending to show or showing the state of the polls. No member of the EB shall make any statement at any time, except as a witness before a court or body as to how many persons voted.
+
+ARTICLE VII FORMS, DOCUMENTS, AND SUPPLIES
+
+SEC. 41. Election Forms, Documents, and Supplies.
+A. Verification of Forms, Documents, and Supplies. - Within three (3) days from receipt of the forms, documents, and supplies, the concerned treasurer and the EO shall notify the political parties, candidates, and citizens' arms that the forms, documents, and supplies have been delivered to the Treasurer's Office and that a verification will be conducted on a scheduled date, time, and place. Based on the packing list received, the treasurer shall verify the accuracy, quantity, and completeness of the forms and supplies in the presence of the EO and the others who were earlier notified. In case of missing or misdelivered forms, documents, and supplies, or any analogous circumstances, the treasurer shall report to the EO who shall, in turn, report to the Command Center.
+B. Final Testing and Sealing. - The duly designated member of the EB shall obtain from the OEO the forms, documents, and supplies in the morning of the day scheduled for the FTS of the ACM, unless the City/Municipal EO provides an earlier period. The list of Supplies and Materials for Testing and Sealing is hereto attached as CEF No. A14.
+C. Election Day. - The duly designated member of the EB shall obtain the forms, documents, and supplies early in the morning of Election Day, unless an earlier date is authorized by the Commission. The list of Supplies and Materials for Election Day is hereto attached as "ANNEX C." The duly authorized member of the EB shall carefully check the correctness and quantity of the election forms, documents, and supplies actually received. Said member shall sign the Certificate of Receipt (CEF No. A14) in three (3) copies to be distributed as follows:
+(1) The original shall be delivered to the City/Municipal Treasurer who shall transmit the same to the EO for submission to the Election Records and Statistics Department (ERSD), Commission on Elections, Intramuros, Manila, immediately after Election Day;
+(2) The second (24) copy shall be given to the City/ Municipal Treasurer who shall keep the same for his/her file; and
+(3) The third (3rd) copy shall be retained by the EO who shall also keep the same for his/her own file. FROM THE ELECTION OFFICER:
+(a) One (1) copy of the PCVL duly certified by the ERB to be posted outside the polling place;
+(b) The EDCVL duly certified by the ERB; and
+(c) Copies of Appointment and Oath of Office of the EB and Support Staff (CEF No. A5 & CEF No. A5-A).
+
+SEC. 42. Forms to be Reproduced when Needed. - The following forms may be reproduced when needed:
+(a) Appointment of Chairperson/Poll Clerk/ Member (CEF No. A30);
+(b) Certificate of Challenge or Protest and Decision of the EB (CEF No. A35);
+(c) Oath of Voter Challenged for Illegal Acts (CEF No. A39); and
+(d) Oath to Identify a Challenged Voter (CEF No. A40).
+
+ARTICLE VIII PROCEDURES FOR VOTING, COUNTING OF VOTES, TRANSMISSION OF PRECINCT RESULTS
+
+SEC. 43. Preliminaries to the Voting. - The EB shall:
+(a) Meet at the polling place prior to the opening of polls on 12 May 2025;
+(b) Ensure that the ACM box and the ballot box are inside the polling place;
+(c) Set up the polling place. Strategically arrange the chairs and tables to be used inside the polling place in such a way that they are at least one (1) meter apart from each other;
+(d) As far as practicable, the EB shall designate at least five (5) seats exclusively for persons with disability, senior citizens, and pregnant voters;
+(e) Post one (1) copy of the PCVL of each precinct in the cluster, near or at the door of the polling place, with the pages/sheets spread out to give free access to voters who are checking their names in the list;
+(f) Show to the watchers and the public present that the:
+(1) ACM case is sealed;
+(2) Ballot box is empty and thereafter, lock the same with plastic security seals; and
+(3) Package of official ballots is duly sealed, and thereafter, break the seal.
+(g) Break the paper seal of the ACM case:
+(1) Open the ACM case and check if the following are deposited inside:
+i. The ACM; ii. Power cord with adaptor of the ACM and battery cable; iii. Remaining rolls of thermal paper; iv. The three (3) Personal Identification Numbers (PINs) for operating the ACM, the three (3) smart cards, and one (1) PIN for re-zeroing;
+v. The checklist of the contents of the ACM box; vi. USB modem with SIM card and one (1) contingency SIM card; vii. Cleaning sheet; viii. Marking Pens; and ix. One (1) paper seal for ACM box (A12-B) to be used at the end of Election Day to close the ACM box.
+(2) Retrieve the smart cards and security PINs from the ACM case and distribute the same among themselves. The RE-ZERO PIN shall remain inside the ACM case.
+(3) Bring out the ACM and show to the public that the compartment containing the main and back-up storage devices is sealed.
+(4) Perform the ACM operations in accordance with the ACM OPERATION PROCEDURES ("ANNEX B").
+
+SEC. 44. Voting Procedures. - The following shall be the procedure when the voters present themselves to vote:
+(a) The Poll Clerk shall:
+(1) Verify if the name of the voter is in the EDCVL to establish that the voter is assigned in that polling place. If the voter's name is not in the EDCVL, the voter shall be directed to the VAD to check his/her assigned precinct.
+(2) If the voter's name is found, check, without touching the voter, the . fingernails, for any indelible ink stain. If stained, it shall be a conclusive presumption that the voter already cast his/her vote. As such, the voter shall be directed to leave the polling place after informing him/her the reason thereof. This fact, including the name and the precinct of the voter, shall be recorded by the Poll Clerk in the Minutes;
+(3) If the fingernail is not stained, establish the identity of the voter through the following:
+i. Voter's photograph or specimen signature in the EDCVL. In case the identity of the voter cannot be determined with certainty in the EDCVL, the EB may require the voter to present any valid identification document, except barangay certificate or community tax certificate; or ii. In the absence of any of the above-mentioned proof of identity, any member of the EB or any registered voter of the precinct/clustered precinct may identify under oath the voter, and such fact shall be reflected in the Minutes.
+(4) If satisfied with the voter's identity, distinctly announce the name of the voter in a tone loud enough to be heard throughout the polling place;
+(5) If the voter is not challenged or having been challenged, the question has been decided in his/her favor, require the voter to sign in the EDCVL. In case of illiterate voters or persons with disability who cannot sign, require said voters to affix their thumb marks in the EDCVL;
+(6) Thereafter, direct the voter to the Chairperson; and
+(7) In case the identity of the voter was not sufficiently established under the foregoing rules, or having been challenged, and the question was decided against him/her, the voter shall be asked to leave the polling place after informing him/her the reason thereof. This fact, including the name and the precinct of the voter, shall be recorded by the Poll Clerk in the Minutes.
+(b) The Chairperson, in turn, shall:
+(1) Authenticate the ballot by affixing his/her signature at the designated space at the front of the ballot; Failure to authenticate the ballot shall not invalidate it but shall constitute an election offense.
+(2) Show to the voter that the ballot being given is not torn or smudged, and has not yet been filled-out;
+(3) Place such ballot inside the ballot secrecy folder;
+(4) Give the ballot secrecy folder containing the ballot and the marking pen to the voter with the instruction that the ballot shall be kept clean and free from unnecessary markings (i.e., smudge/stain from thumbprint-taker, food stains, and the like); Only one (1) ballot shall be issued to a single voter by the Chairperson, except in the BARMM area where each voter will receive two (2) ballots.
+(5) Instruct the voter how to fill-out the ballot properly; and
+(6) Direct the voter to fill-out the ballot in the designated voting area.
+
+SEC. 45. Manner of Voting. -
+(a) The Chairperson shall instruct the voter to:
+(1) Use a ballot secrecy folder and the marking pen provided by the Commission;
+(2) Accomplish the ballot by fully shading the circle appearing before the names of their chosen candidates and the organizations participating in the party-list system of representation;
+(3) Feed the accomplished ballot in the ACM's ballot entry slot then take the printed VVPAT; For BARMM voters, they shall feed the two (2) ballots one at a time in the ACM;
+(4) Deposit the VVPAT in the VVPAT receptacle; and
+(5) Return the ballot secrecy folder and the marking pen to the EB third member.
+(b) The EB third member shall position himself / herself beside the ACM without being able to view the screen, but near enough to be able to perform the following:
+(1) Ensure that the ballot is successfully deposited, and the VVPAT is printed and deposited by the voter in the VVPAT receptacle;
+(2) Collect from the voter the ballot secrecy folder and marking pen;
+(3) Apply indelible ink to the voter's right forefinger nail or any other nail if there be no forefinger nail; and
+(4) Advise the voter to leave the polling place.
+(c) Incase an objection is raised by the voter on the results reflected in the VVPAT, the Third Member shall:
+(1) Instruct the voter to affix his/her signature at the back of the VVPAT and to hold onto the VVPAT for submission to the Chairperson; and
+(2) Direct the voter to the Chairperson.
+(d) The Chairperson shall instruct the Poll Clerk to note the specific objection in the Minutes and to attach the contested VVPAT to the Minutes (copy for the ballot box). Filing of frivolous objections shall constitute an election offense punishable under the Omnibus Election Code (OEC). For this purpose, the EB is allowed to administer oaths so that if the protest is frivolous, falsification or perjury charges may be filed.
+
+SEC. 46. Rejected Ballots; Procedure. - Ballots may be rejected by the ACM during the scanning. There are four (4) different types of messages when the ACM rejects a ballot:
+(a) Misread Ballot - When a ballot has not been scanned properly. For this purpose, the EB shall allow the voter to re-feed the ballot in four (4) different orientations;
+(b) Previously Read Ballot - When a ballot with the same ballot ID number was already scanned;
+(c) Invalid Ballot - When the ballot is not configured to the ACM; and
+(d) Fake Ballot - when security markings are not present in the ballot. If the ballot is still rejected, the voter shall return the ballot to the Chairperson, who shall:
+(1) Distinctly mark the back thereof as "REJECTED";
+(2) Require all members of the EB to sign at the back thereof; and
+(3) Place the rejected ballot inside the Envelope for Rejected Ballots. No replacement ballot shall be issued to a voter whose ballot is rejected by the ACM, except if the rejection of the ballot is not due to the fault of the voter. In the latter case, the EB shall annotate on the rejected ballot the words "REJECTED WITH REPLACEMENT." Any party objecting to the rejection of the ballot shall reduce his objection in writing, which the EB shall attach to and note in the Minutes (one [1] copy for the ballot box and one [1] copy for the EO).
+
+SEC. 47. Closing of Polls; Counting of Votes and Transmission of Results; Printing of Reports, VVPAT Audit, and Shutting Down the ACMs; Procedure. - After the voters have cast their ballots, the EB shall ensure that the IP-SVR, PDL-SPP, and PPP ballots, if any, have been fed in the ACM. The EB shall then close the voting by performing the procedures provided in the ACM OPERATION PROCEDURES ("ANNEX B"). After printing all the thirty (30) copies of the ERs and all reports, and before performing the back-up procedure, the EB shall perform the following:
+(a) Open the VVPAT receptacle and retrieve all VVPATs;
+(b) Manually count the VVPAT including the contested VVPAT attached to the Minutes, if any, and record the same in the Minutes;
+(c) Perform the VVPAT audit procedure completely as laid down in the ACM OPERATION PROCEDURES ("ANNEX B");
+(d) Remove the main storage device from the ACM and place it inside the envelope (A18-B). The EB shall also indicate on the envelope the clustered precinct number, barangay, and city / municipality / province. The Backup storage device shall not be removed from the ACM, and the cover of the ACM's storage device compartment shall remain locked;
+(e) Place the initialization report, precinct statistical report, audit logs, and VVPAT Audit Report in their corresponding envelopes (A18-C to A18E);
+(f) Shut down the ACM in accordance with the ACM OPERATION PROCEDURES ("ANNEX B");
+(g) Disconnect the following:
+(1) Power cable of the ACM from the electrical outlet;
+(2) Battery from the ACM;
+(3) Battery cables from the battery; and
+(4) Power cable from the ACM.
+(h) Place the smart cards and PINs to the ACM case;
+(i) Place the battery inside the ACM box;
+(j) Place the power cord and the battery cables inside the ACM case;
+(k) Close the ACM case then place it in the ACM box and cover the ballot box with packaging tape by wrapping the tape around the cover and extending it to the upper part of the ballot box. The EB shall affix their signatures on the tape and require the watchers present to also affix their signatures; and
+(l) Turn over the ACM box, including all other AES-related equipment to the concerned EO for verification using the same checklist provided for the purpose. In case there are lacking items in the checklist, the EB shall be required to produce the same, otherwise, they shall be held liable for their equivalent cost, without prejudice to the filing of appropriate charges.
+
+ARTICLE IX PRIORITY POLLING PLACE (PPP) VOTING
+
+SEC. 48. Voters in PPPs and S-PPPs. - The following voters may choose to vote in the PPP/S-PPP (Satellite-Priority Polling Place):
+(a) Senior Citizens and Persons with Disability voters who did not manifest their intent to vote in the APP in their voter registration form;
+(b) Persons with Disability voters who failed to update their registration records during the continuing registration of voters;
+(c) Voters who became disabled, temporarily or permanently, after the continuing registration of voters ended; and
+(d) Pregnant voters.
+
+SEC. 49. PPP/S-PPP Support Staff (SS) and Aides. - In every PPP/S-PPP, there shall be PPP/S-PPP Support Staff and Aides allocated in the following manner:
+A. PPP/S-PPP Support Staff:
+[TABLE: Allowed PPP/S-PPP Support Staff]
+No. of Registered Voters who are Persons with Disabilities or Senior Citizens (excluding those registered in APPs) | No. of PPPs or S-PPPs Established | Total No. of Allowed PPP/S-PPP Support Staff
+1 - 1,500 | 1 | 2
+1,501 - 2,500 | 2 | 4
+2,501 - 3,500 | 3 | 6
+3,501 - 4,500 | 4 | 8
+4,501 - 5,500 | 5 | 10
+5,501 - 6,500 | 6 | 12
+6,501 - 7,500 | 7 | 14
+7,501 - 8,500 | 8 | 16
+[END TABLE]
+B. PPP Aides:
+[TABLE: Allowed PPP/S-PPP Aides]
+No. of Clustered Precinct/s in a Voting Center | Total No. of Allowed PPP/S-PPP Aides
+1 - 10 | 1
+11 - 20 | 2
+21 - 30 | 3
+31 - 40 (and so forth following the same ratio) | 4
+[END TABLE]
+The PPP/S-PPP SS and PPP Aide shall be under the supervision of the DESO.
+
+SEC. 50. Preliminaries to Voting at the PPP. - One of the PPP Support Staff shall explain to the voters who choose to vote in the PPP that/ of:
+(a) They have the option to vote in their regular precincts or in the PPP;
+(b) There is a difference in the voting procedures in the PPP and in the regular polling place;
+(c) They have to comply with the requirement to submit the Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) for the purpose of securing their ballots from the EB Chairperson of their clustered precincts. The Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) is hereto attached as "ANNEX D;"
+(d) The estimated waiting time, including the possibility that the PPP Aide may wait until a minimum of ten (10) voters have availed themselves of the PPP before obtaining the ballots from their regular precincts;
+(e) The absence of an Automated Counting Machine (ACM) in the PPP;
+(f) The ballots will be returned to the EB Chairperson of the clustered precincts where they are registered and that their ballots will be fed to the ACM by the EB Chairperson; and
+(g) Such other relevant information.
+
+SEC. 51. Remuneration and Other Benefits. - The PPP/S-PPP SS shall have the same honoraria and benefits as the regular EB SS mentioned in the provision for honoraria and allowances as stated in Section 13 (a) of this Resolution.
+
+SEC. 52. Election Forms, Documents, and Supplies for Voting in PPPs and S-PPPs. - Except when authorized to do so earlier by the Commission, the PPP SS/S-PPP SS shall obtain the following forms, documents, and supplies early in the morning of election day. The list of election forms, documents, and supplies is hereto attached as "ANNEX E." FROM THE ELECTION OFFICER:
+(1) One (1) copy of the blank EDCVL for PPPs/S-PPPs; and
+(2) One (1) copy of the PPP Voter Turnout Form ("ANNEX F") per PPP and S-PPP. The PPP Support Staff shall carefully check the different election forms, documents, and supplies, and the quantities actually received.
+
+SEC. 53. PPP/S-PPP Voting Hours. - On election day, voting in the PPPs shall be from five o' clock in the morning (5:00 AM) to five o' clock in the afternoon (5:00 PM), while voting in the S-PPPs shall be from seven 0' clock in the morning (7:00 AM) to three o' clock in the afternoon (3:00 PM).
+
+SEC. 54. Assistor Privilege. - The Assistor, except the PPP/S-PPP SS, shall be allowed to vote in the PPP/S-PPP where he/she is assisting on election day, provided that he/she is registered in the same polling place and accomplishes the required Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D").
+
+SEC. 55. PPP Election Day Computerized Voters' List (PPP-EDCVL). - To facilitate the identification of Persons with Disability and Senior Citizen Voters who may possibly avail of the PPP in the precinct/ polling place where they belong and where the ballot shall be obtained and returned, the PPP shall be provided with a separate EDCVL of all registered Persons with Disability and Senior Citizen Voters, including those registered in the APPs.
+
+SEC. 56. S-PPP EDCVL. - The S-PPPs shall be provided with a separate EDCVL of all voters assigned thereat. For this purpose, the concerned EO shall provide the list of voters assigned in S-PPPs to the ITD for printing.
+
+SEC. 57. Voting Procedures in the PPP/S-PPP. - The following voting procedures shall be observed in the PPP:
+A. The PPP Support Staff 1 shall:
+(1) Inspect the fingernails of the Persons with Disability, Senior Citizens, or Pregnant Voters for any ink stain upon their arrival at the PPP. An Assistor who also intends to vote in the PPP shall also have his/her fingernails checked for any ink stain;
+(2) Require the presentation of a Persons with Disability ID Card or any other document as proof of such disability for a voter with nonmanifest disability, which is not specified in the EDCVL;
+(3) Explain to the voter/s the procedures of voting in the PPP;
+(4) After establishing the voter's identity, ask him/her to sign his/her name in the logbook if he/she opts to vote in the PPP;
+(5) Should the voter be accompanied by an Assistor, ensure that the latter is qualified as such; and
+(6) Provide the voter with a Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D") and ensure that it is accurately filled out;
+A. The PPP Support Staff 2 shall:
+(1) Verify the identity of the voter in the EDCVL or through his/her ID Card presented, look for his/her name, photo, and precinct number in the EDCVL, and indicate said precinct number in the Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) (" ANNEX D");
+(2) Incase of doubt on the identity of the voter, he/she shall require the voter to present a valid proof of identity or allow any registered voter to identify him/her under oath; and
+(3) Hand over the Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D") to the Aide assigned to the clustered precinct in which the voter is registered to vote.
+C. The PPP Aide shall:
+(1) Proceed to the clustered precinct of the voter to obtain the ballot;
+(2) He/She may opt to wait until a minimum of ten (10) voters have availed themselves of the PPP before obtaining the ballots; provided, however, that no voter shall be made to wait for an unreasonable length of time; and
+(3) Upon reaching the clustered precinct, turn over the Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D") and the ID card or any other document presented for identification purposes, if any, to the EB Chairperson assigned in the clustered precinct.
+D. The EB Chairperson of the Clustered Precinct where the ballots of the PPP Voters are obtained from shall:
+(1) Upon receipt of the Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D") and the ID card or any other document presented for identification purposes, if any, check the name, signature, and photo of the voter in the EDCVL;
+(2) The EB Chairperson shall prioritize all ballot requests from the PPP, except in cases where there are Persons with Disability, Senior Citizens, or Pregnant Voters who are simultaneously in the clustered precinct, in which case the EB Chairperson shall accommodate them alternately;
+(3) After the voter's identity has been validated, note in the Minutes of Voting (Minutes) his/her name, precinct number, and the serial number of the ballot given to the Aide. The Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D") shall be attached to the Minutes;
+(4) Insert the ballot in the envelope provided by the Aide and write at the back thereof the clustered precinct number of the voter/s for whom the ballot is obtained. The time the ballot/s was/were obtained from the polling place and the number of ballots obtained shall be recorded in the Minutes. Enclose the envelope with a paper seal provided by the Aide and record in the Minutes the serial number of the paper seal;
+(5) The same envelope may be used for the subsequent issuance of ballots, provided the above procedures shall be followed; and
+(6) If the ballot cannot be issued for any reason that is beyond the control of the EB, the EB Chairperson shall authorize the Third Member or Poll Clerk to go to the PPP and explain to the voter the reason for the non-issuance of the ballot. This fact shall be recorded in the Minutes of the clustered precinct and logbook of the PPP.
+E. Upon receipt of the ballots from the Aide, any of the PPP Support Staff shall:
+(1) Inspect the envelope and break the paper seal to extract the ballots therefrom;
+(2) Check the ballots to ensure that they have not been filled out, marked, mutilated, or otherwise rendered unusable;
+(3) Enter in the logbook the conditions of the envelope, serial number of the paper seal, and details of the ballots;
+(4) Issue the ballot, marking pen, and ballot secrecy folder to the voter;
+(5) After the voters have accomplished the ballot, insert them in envelopes per clustered precinct for submission to the EB Chairperson of said clustered precinct where the accomplished ballots were obtained. The PPP Support Staff shall safely keep the accomplished ballots, ensuring the security and sanctity thereof, until the close of voting in the PPP;
+(6) Instruct the voter to sign the EDCVL and impress his/her thumbprint therein. Apply indelible ink to the voter's right forefinger nail or any other nail, if there be no forefinger nail, or in any other suitable part of the voter's body, if there are no fingernails; and
+(7) Inform the voter that his/her voting is completed and request the voter to leave the PPP.
+
+SEC. 58. Procedures before Closing of PPP and S-PPP. - Before closing, all members of the PPP/S-PPP Support Staff shall jointly accomplish and sign the PPP Voter Turnout Form ("ANNEX F") and ensure the completeness and accuracy of the entries in the logbook of the PPP/S-PPP. There shall be one (1) PPP Voter Turnout Form ("ANNEX F") submitted per PPP/S-PPP. The PPP Voter Turnout Form ("ANNEX F") and logbook shall be turned over to the concerned EO.
+
+SEC. 59. Procedures After Closing of PPP/S-PPP. - Once the PPP/S-PPP is closed, the Support Staff shall seal the envelopes per clustered precinct containing the accomplished ballots. Thereafter, the Aide shall deliver the securely sealed envelopes to the EB Chairpersons of the clustered precincts where it came from. The exact time of the closing of the PPP/S-PPP, the serial number of the paper seals per envelope, and the time of the receipt of the envelopes by the EB Chairpersons shall be entered in the Minutes and thereafter, the Aide/s shall affix their signatures thereto. Upon delivery, the EB Chairperson shall then inspect the conditions of the envelopes and ballots with due care to preserve the sanctity and secrecy of the ballot, compare the number of ballots received with the number of Waiver and Authorization Forms (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D") previously submitted to them, record in the Minutes the condition and the serial numbers of the paper seals of the envelopes and ballots, including the discrepancies in the number of the ballots as against the number of Waiver and Authorization Forms (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D") recorded in the Minutes, if any. The time of the receipt of the envelopes and the ballots from the Aide/s shall, likewise, be entered in the Minutes. Before actually feeding the ballots to the ACM, the EB Chairperson shall announce such action in the polling place. Thereafter, he/she shall feed the ballots to the ACM in the presence of the other members of the EB, Aide/s, and watchers. The Aide/s may, thereafter, leave the clustered precinct and return to the PPP Support Staff to report the time of actual receipt of the ballots by the EB Chairperson of the clustered precinct for recording in the Minutes.
+
+SEC. 60. Early Close of Voting in the S-PPP. - In case all the voters expected to vote in the S-PPP have already cast their votes before the period provided for S-PPP, the S-PPP SS and poll watchers, if there are any present, by unanimous agreement, may declare early close of voting therein. In case a voter arrived beyond the voting hours in the PPP, the provisions on accommodating said voters as provided for in Section 24 of this Resolution shall be applicable.
+
+ARTICLE X PERSONS DEPRIVED OF LIBERTY (PDL) VOTING
+
+SEC. 61. Venue of the PDL-SPP. - The PDL-Special Polling Place (SPP) shall be established in an area inside the jail facility/detention center spacious enough to accommodate at least ten (10) PDL voters at a given time. The physical setup of regular polling places shall apply to the PDL-SPP.
+
+SEC. 62. Who are Allowed to Vote in the PDL-SPP. - Only PDL voters whose names appear in the PDL-EDCVL and PDL-PCVL may vote in the PDL-SPP.
+
+SEC. 63. Released PDL Voters. - A PDL voter included in the PDL-EDCVL but released before election day shall be allowed to vote in the regular polling place where his/her precinct is assigned. The EB Chairperson of the regular polling place where he/she will vote shall request for his/her Certificate of Discharge, Court Order, Order of Transfer, Judgement with Order of Finality, or any other similar document as proof of his/her release and based on which, the EB Chairperson shall issue the ballot to him/her. Before doing so, however, the EB Chairperson shall annotate in the EDCVL, on top of the PDL's voter's name, the date of the document and the name of the official who issued and signed the same.
+
+SEC. 64. Powers and Functions of the SEB-PDL. - The SEB-PDL shall have the same powers and functions as the EB.
+
+SEC. 65. Functions of PDL-SS. - The PDL-SS shall have the following functions:
+(a) Collect the ballots of the PDL voters from the EB of the polling place in the voting center where they are assigned before the opening of polls;
+(b) Bring the collected ballots to the PDL-SPP; and
+(c) Return the accomplished ballots to the EB of the regular polling place where the same ballots were taken on or before six o' clock in the evening (6:00 P.M.) on election day.
+
+SEC. 66. Functions of the Uniformed Personnel. - Every PDL-SS shall have one (1) uniformed personnel who shall accompany them, as follows:
+(a) From the PDL-SPP to the voting center to get the ballots;
+(b) From the voting center back to the PDL-SPP to deliver the ballots to the SEB-PDL; and
+(c) From the PDL-SPP to the voting center to deliver the accomplished ballots. The uniformed personnel shall not enter the polling place from where the ballots shall be taken and to which the same ballots shall be returned or any other polling place, except to vote. In case there is insufficiency of uniformed personnel, additional security forces shall be assigned by the Chief of BJMP, Wardens of Provincial Jails, Director General of BuCor, Head of PNP Custodial Facilities, or any of their authorized representatives to augment the security forces in escorting the PDL-SS.
+
+SEC. 67. Proceedings of the SEB-PDL. - The proceedings of the SEB-PDL shall be public and held in the PDL-SPP designated by the Commission.
+
+SEC. 68. Honoraria of the SEB-PDL and PDL-SS. - The SEB-PDL Members and PDL-SS shall be entitled to the same remuneration and other benefits of EB Members and Support Staff mentioned in Section 13 (a) of this Resolution.
+
+SEC. 69. Official Watchers of Candidates, Political Parties, Media Representatives, and Other Groups. - The provisions on watchers of candidates, political parties, media representatives, and other groups under the provision on Watchers (Article III) of this Resolution shall herein be applicable, subject to security requirements of the jail facility/detention center. The above-mentioned groups must follow all the security measures enforced inside the jail facility/detention center and the guidelines established by the Commission. For this purpose, the jail facility / detention center shall submit a security plan for election day to their respective Election Officers of the district/city/ municipality, which shall control the determination of a safe and secure conduct of elections inside such jail facility / detention center.
+
+SEC. 70. Documentation and Communication Devices Allowed in PDLSPP. - Watchers, SEB-PDL Members, PDL-SS, CHR representatives, accredited monitoring groups, accredited citizens' arms, and representatives of the Commission shall be allowed to bring cameras, cellular phones, laptops, and the like inside the PDL-SPP, provided that these devices are to be used exclusively for official documentation and communication purposes. Taking photographs and/or videos of the PDL Voters, showing their identities and/or unduly exposing them to the public in violation of the Data Privacy Act and its Implementing Rules and Regulations shall be prohibited.
+
+SEC. 71. Election Forms, Documents, and Supplies for PDL Voting. - Except when authorized to do so earlier by the Commission, the SEB-PDL Members shall obtain the forms, documents, and supplies early in the morning of election day. The list of the forms, documents, and supplies is hereto attached as "ANNEX G." FROM THE ELECTION OFFICER
+(1) One (1) copy of the PDL-EDCVL; and -
+(2) One (1) copy of the PDL Voter Turnout Form ("ANNEX F-1) The SEB-PDL shall carefully check the different election forms, documents, and supplies, and the quantities actually received. After finding that everything is in order, they shall sign a Certificate of Receipt (A14) in three
+(3) copies, the original of which shall be returned to the EO, who shall transmit the same to the Election Records and Statistics Department (ERSD) of the Commission in Intramuros, Manila, immediately after the election day.
+
+SEC. 72. Forms to be Reproduced When Needed. - The provisions on forms to be reproduced under Section 41 of this Resolution shall herein be applicable.
+
+SEC. 73. Date and Time of PDL Voting. - PDL Voting shall take place on 12 May 2025. The voting in the PDL-SPP shall be from seven 0' clock in the morning (7:00 AM) to three o' clock in the afternoon (3:00 PM) only. This is to ensure that the SEB-PDL SS shall have sufficient time to return the accomplished ballots to the voting centers where they originated before the close of voting hours on election day. In case all the expected PDL voters already voted before two o' clock in the afternoon (2:00 PM), the SEB-PDL shall close the voting in the PDLSPP in accordance with the provisions on early close of voting in the S-PPP (Section 60) of this Resolution.
+
+SEC. 74. Preliminaries to PDL Voting. - The following procedure shall be observed for PDL Voting on election day:
+A. At the PDL-SPP:
+(1) The SEB-PDL Members and all the PDL-SS shall meet at the PDLSPP at five o' clock in the morning (5:00 A.M.) on election day and shall submit themselves to all the security measures enforced in the jail facility / detention center;
+(2) The SEB-PDL Members shall give to the PDL-SS the envelopes with one (1) paper seal for each clustered precinct with PDL voters in the voting center;
+(3) Upon receipt of the empty envelopes and paper seals, the PDL-SS shall leave the jail facility/detention center with the uniformed personnel to go to the voting center to collect the ballots for the PDL voters;
+(4) While waiting for the return of the PDL-SS, the SEB-PDL Members shall prepare the PDL-SPP by ensuring that it will be provided with the following:
+i. A table where the envelopes for the accomplished ballots will be placed; and ii. At least ten (10) chairs or voting booths where PDL voters can accomplish their ballots.
+(5) The SEB-PDL shall post the PCVL-PDL in a visible area in PDLSPP; and
+(6) Upon arrival of the PDL-SS in the PDL-SPP, the SEB-PDL Chairperson shall, in the presence of the other SEB-PDL Members, open the envelope/s and count the ballots inside. The time of arrival, name of voting center, clustered precinct, number of ballots, and serial number of the paper seal/s of the envelope/s received shall be entered in the Minutes by the SEB-PDL Poll Clerk.
+B. At the Regular Polling Place in the Voting Center:
+(1) Before the start of voting in the regular polling place, the EB Chairperson shall count and segregate the ballots allocated for PDL voters in the presence of the other members of the EB and the watchers using the PDL-EDCVL and PCVL as reference;
+(2) The EB Chairperson shall, using the PDL-EDCVL as reference, annotate the PDL's names in the EDCVL with "PDL Voter." The ballots shall then be set aside to await the arrival of the PDL-SS;
+(3) Upon the arrival of the PDL-SS, the EB Chairperson shall insert the prepared ballot/s in the envelope brought by the PDL-SS and seal the envelope using the paper seal in his/her possession. Thereafter, the EB Members shall affix their initials on the paper seal and turn over the sealed envelopes to the PDL-SS; and
+(4) The EB Poll Clerk shall write in the Minutes the name of the PDLSS, the number of ballots issued, the serial number of the paper seal of the envelope, and the time the ballots were turned over to the PDL-SS. The PDL-SS shall affix his/her signature in the Minutes and leave the polling place immediately, accompanied by the uniformed personnel to deliver the ballots to the SEB-PDL Chairperson at the PDL-SPP.
+
+SEC. 75. Manner of Obtaining Ballots for PDL Voting. - The SEB-PDL shall conduct the voting in the order of arrival of the ballots in the PDL-SPP while giving preference to Senior Citizens, Persons with Disability, and PDL voters, and shall observe the following:
+(a) SEB-PDL Poll Clerk shall assist the PDL voter in finding his/her name in the PCVL-PDL and determining his/her precinct and sequence number;
+(b) The SEB-PDL Poll Clerk shall verify if the name of the PDL voter is in the PDL-EDCVL. If it is, require the PDL voter to sign opposite his/her name. If he/she cannot, then require him/her to impress his/her thumbmark in the PDL-EDCVL. In case of doubt, a PDL Voter may identify under oath another PDL voter belonging to the same precinct where the former belongs. The Jail Administrator or his/her representative/s may likewise confirm the identity of the PDL Voter using official records of the jail facility/detention center. Such identification shall be under oath and recorded in the Minutes. A PDL voter belonging to the same precinct identifying another PDL voter shall be allowed to identify only up to three (3) times.
+(c) Before giving the ballot to the PDL voter, the SEB-PDL Chairperson shall:
+(1) Check if any of the fingernails of the PDL voter has already been stained with indelible ink. If stained, it shall be a conclusive presumption that he/she has already voted. As such, the PDL voter shall be directed to leave the PDL-SPP after informing him/her of the reason thereof. This fact, including the name and the precinct of the PDL voter, shall be recorded by the SEB-PDL Poll Clerk in the Minutes;
+(2) After verifying that no fingernail has been stained, instruct the PDL voter to affix his/her signature in the PDL-EDCVL;
+(3) Authenticate the ballot by affixing his/her signature at the designated space in front thereof. Failure to authenticate the ballot shall not invalidate the same but shall constitute an election offense;
+(4) Instruct the PDL voter on how to accomplish the ballot properly; and
+(5) Insert the ballot in the secrecy folder in such a manner that its face is covered, except the portion where his/her signature in the ballot appears, and give the ballot to the PDL voter. Only the SEB-PDL Chairperson shall issue the ballots, and not more than one (1) ballot shall be issued at one time except in the BARMM area where two (2) ballots shall be given.
+
+SEC. 76. Assistors for PDL Voters Who Are Illiterate, Senior Citizens, or Persons With Disability. - The following PDLs may be assisted by any SEBPDL Member:
+(a) Illiterate, Senior Citizens, or Persons with Disability who are incapable of preparing or accomplishing their ballots independently and the same is indicated in the PDL-EDCVL,;
+(b) Even if it is not indicated in the PDL-EDCVL but it is evident or manifest that the PDL voter is incapable of accomplishing his/her ballots independently, or that his/her disability is apparent. SEB-PDL Members may assist more than three (3) PDL voters who are illiterate, senior citizens, or persons with disability.
+
+SEC. 77. Sealing of the Envelopes per Clustered Precinct for PDL Voting. - After all the PDL voters in a particular clustered precinct have already voted, the SEB-PDL Chairperson shall, in the presence of the other SEB-PDL Members and watchers:
+(a) Count the unused ballots, if there are any, and record in the Minutes the quantity thereof indicating therein the Precinct ID of the ballots;
+(b) Tear the unused ballots in half lengthwise and insert them in the envelope intended for the unused ballots separate from the envelope intended for the accomplished ballots;
+(c) Close the two (2) envelopes containing the accomplished ballots and the unused ballots using paper seals with the initials of all the SEB-PDL Members; and
+(d) Hand the sealed envelopes to the PDL-SS for delivery to the voting center where the ballots were collected. The PDL-SS shall ensure that all accomplished ballots of PDL voters shall reach the EB Chairperson of the clustered precinct before six 0' clock in the evening (6:00 P.M.) on election day.
+
+SEC. 78. Disposition of Election Documents used for PDL Voting. - The SEB-PDL shall deliver to the Office of Election Officer (OEO) the PDLEDCVL, PDL-PCVL, and other election paraphernalia. Compliance thereto must be done before the payment of honoraria.
+
+SEC. 79. Counting of PDL Ballots in the Polling Places. - The EB in the regular polling place shall observe the following upon receipt of PDL ballots from the PDL-SS:
+(a) Enter in the Minutes the time of receipt of the sealed envelope containing the accomplished ballots and the sealed envelope containing the half-torn unused ballots;
+(b) Announce to the public that the accomplished ballots of PDL voters have been received with the half-torn unused ballots, if any;
+(c) Open the envelope ONLY when all the voters in the polling place have finished voting or when the voting time has ended and there are no more voters within the thirty (30)-meter radius of the polling place waiting to vote;
+(d) Count the accomplished ballots; and
+(e) Feed the ballots to the ACM before the close of voting;
+(f) Place one-half of the torn unused ballots inside an envelope (CEF No. A16) for submission to the OEO and the other half inside another envelope (CEF No. A16) for deposit inside the compartment of the ballot box for valid ballots. Such facts shall be entered in the Minutes.
+
+SEC. 80. Escorted PDL Voters. - Those who are in a jail facility / detention center with less than fifty
+(50) PDL voters may avail of escorted voting.
+
+SEC. 81. Express Lane for Escorted PDL Voters. - A PDL voter voting in the polling place shall be given priority to vote. When he/she reaches the polling place, the uniformed personnel shall inform the EB Chairperson of the arrival of PDL voters for escorted voting. Thereafter, the PDL voter shall be accommodated in the express lane in the polling place.
+
+SEC. 82. Authority to Bring a Firearm. - To ensure the security of the PDL voter, his/her uniformed personnel may bring a firearm inside the polling place. Said escort and PDL voter/s shall immediately leave the polling place once the latter have finished voting.
+
+ARTICLE XI INDIGENOUS PEOPLES (IP) VOTING IN ACCESSIBLE VOTING CENTER AND SEPARATE POLLING PLACE
+
+SEC. 83. DESO and DESO SS for AVC. - Every AVC shall be assigned one
+(1) DESO and two (2) DESO SS, who shall act as Technical Support and Administrative Support Staff, following the allocation as stated in Section 10 of this Resolution.
+
+SEC. 84. SS in the IP-SVR of C-SPP. - There shall be a maximum of two (2) Support Staff assigned to every IP-SVR of C-SPP to supervise the voting therein.
+
+SEC. 85. Applicability of the Provision on Electoral Board, DESO, and SS (Article II) HEREOF. - Unless otherwise provided in this Resolution, the provisions on Electoral Board, DESO, and SS (Article II) of this Resolution shall herein be applicable.
+
+SEC. 86. Appointment, Qualifications, Rights and Duties of Watchers in the AVC, E-SPP, & C-SPP. - The appointment, qualifications, rights and duties of watchers of each candidate, duly registered political party or coalition of political parties, associations, and duly accredited citizens arms in every polling place in the AVC, E-SPP and C-SPP shall be governed by the provision on Watchers (Article III) of this Resolution.
+
+SEC. 87. IP-SVR Voting Hours. - Voting shall start at five o'clock in the morning (5:00 AM) and end at five o'clock in the afternoon (5:00 PM). The early voting hours for IPs who are also senior citizens, persons with disability, and pregnant voters shall be observed. If at five o' clock in the afternoon (5:00 PM), there are still IP voters present within the thirty (30)-meter radius from the IP-SVR who have not yet cast their votes and are intending to cast their votes therein, voting shall continue but only to allow said IP voters to cast their votes without interruption. The IP-SVR SS shall, without delay, prepare a complete list containing the names of said voters consecutively numbered, and the voters so listed shall be called to vote by announcing each name audibly three (3) times in the order in which they are listed. Any IP voter in the list who is not present when his or her name is called shall not be permitted to vote. The said list shall be attached to the Minutes. The foregoing circumstance shall be immediately made known to the EB Chairperson of the C-SPP where the IP-SVR belongs to ensure that the EB Chairperson will wait for the IP-SVR SS to deliver the ballots to them. The giving of numbers to the IP voters to determine their sequence of voting shall be strictly prohibited.
+
+SEC. 88. Procedures on Voting, Counting of Votes, and Canvassing in the AVC and E-SPP. - The applicable provisions on voting, counting of votes, and transmission of precinct results (Article VIII) hereof shall be observed in the AVC and E-SPP.
+
+SEC. 89. Procedures on Voting in IP-SVR of C-SPP. - The applicable voting procedures in Section 57 shall be observed in the IP-SVR of C-SPP, except that they will be performed by the IP-SVR Support Staff. The retrieval of ballots from the clustered precincts of the IP voters shall be done once before the start of voting on election day.
+
+SEC. 90. Early Close of Voting in the IP-SVR. - Incase all IP voters expected to vote in the IP-SVR have already cast their votes before five o' clock in the afternoon (5:00 P.M.), both IP-SVR SS and the poll watchers, if there are any present, by unanimous agreement, may declare early close of voting therein.
+
+SEC. 91. Procedure before Closing of the IP-SVR. - Before closing the IPSVR, the IP-SVR SS shall accomplish the IP Voter Turnout Form ("ANNEX F-2"), Thereafter, the IP-SVR SS shall count the unused ballots and cut them into half lengthwise and insert in the envelope for unused ballots separate from the envelope containing the accomplished ballots, secure them with paper seals, and affix their signatures on the paper seals. Enter the details on the number of ballots (accomplished and half-torn), serial number of the paper seals, and the time of the closing of the IP-SVR in the logbook.
+
+SEC. 92. Procedure After Closing of the IP-SVR. - Once the IP-SVR is closed, the IP-SVR SS shall deliver the sealed envelope for official ballots and other election paraphernalia to the EB Chairperson of the C-SPP who issued the ballots. The EB Chairperson shall announce, in a voice loud enough to be heard throughout the C-SPP, the receipt of the ballots from the IP-SVR. Copies of the IP Voter Turnout Form ("ANNEX F-2") and the logbook shall, likewise, be turned over to the EB Chairperson for submission to the EO who shall, in turn, submit them to the Commission, thru the VSO, within thirty
+(30) days after election day. The receipt of the IP Voter Turnout Form ("ANNEX F-2") and the logbook by the EO shall be the pre-requisite for the payment of the remuneration due to the IP-SVR SS. Before the close of voting in the C-SPP, the EB Chairperson shall announce that the envelopes for official ballots containing the ballots of the IP voters from the IP-SVR shall be opened for counting. The EB Chairperson shall then inspect the condition of the envelope for official ballots and the ballots enclosed, then compare the number of ballots received and the number of Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D-1") submitted. The EB Chairperson shall also compare the number of ballots issued and the number of Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D-1") released with the number of ballots received and the number of Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D-1") previously issued as indicated in the Minutes prior to the start of voting. The condition of the envelope and the ballots and/or the discrepancies in the number of the ballots and Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) ("ANNEX D-1") as against the number appearing in the Minutes shall be entered in the latter. The EB Chairperson shall, in the presence of the other EB members, IP-SVR SS and watchers, feed the accomplished ballots from the IP-SVR to the ACM before the performance of closing procedures in the ACM. Before actually feeding the accomplished ballots to the ACM, the EB Chairperson shall announce such action loud enough to be heard in the C-SPP by the other EB members, IP-SVR SS, and others. Thereafter, the half of the torn unused ballots shall be inserted in the envelope (CEF No. A16) for submission to the EO while the other half shall be put inside another envelope (CEF No. A16) which shall be deposited inside the ballot box. The foregoing shall be entered in the Minutes as well as the total number of accomplished and torn ballots.
+
+SEC. 93. Election Forms, Documents, and Supplies for the AVC and E-SPP. - Except when authorized to cause the early delivery by the Commission, through the Provincial Election Supervisor (PES), the forms, materials, and supplies shall be provided to the AVC and E-SPP on election day. The list of election forms, documents, and supplies is hereto attached as "ANNEX H." The EB shall carefully check the different election forms, documents, and supplies and the quantity actually received. The EB shall sign a Certificate of Receipt (CEF No. A14) in three (3) copies, one (1) copy of which shall be retained by the EB. The two (2) other copies shall be returned to the City / Municipal Treasurer who shall keep the same for his or her file, and after elections, shall immediately transmit one (1) copy thereof to the concerned Election Officer (EO) for submission to the Election Records and Statistics Department (ERSD) of the Commission in Intramuros, Manila. FROM THE EO: There shall be, per AVC and E-SPP:
+(a) One (1) set of IP-PCVL duly certified by the ERB for posting outside the polling place; and
+(b) The IP-EDCVL duly certified by the ERB.
+
+SEC. 94. Election Forms, Documents, and Supplies for the C-SPP with IPSVR-SS. - Except when authorized to cause the early delivery by the Commission, through the Provincial Election Supervisor (PES), the forms, materials, and supplies shall be provided to the EB of the C-SPP with IP-SVR SS on election day. The list of election forms, documents, and supplies is hereto attached as "ANNEX I." FROM THE EO: There shall be, per IP-SVR through the EB of C-SPP, the following:
+(a) One (1) set of IP-PCVL duly certified by the ERB for posting outside the polling place; and
+(b) The IP-EDCVL duly certified by the ERB.
+
+ARTICLE XII DISPOSITION OF DOCUMENTS
+
+SEC. 95. Disposition of Unused Ballots. - After the voting, the Chairperson, in the presence of the other members of the EB, shall:
+(a) Record in the Minutes the quantity of unused ballots;
+(b) Tear the unused ballots in half lengthwise;
+(c) Place one half of the torn ballots in the Envelope for Rejected Ballots, Half of Torn Unused Official Ballots and Other Half of Torn Unused Official Ballots (CEF No. A16), and submit said envelope to the EO for safekeeping; and
+(d) Place the other half in another Envelope for Rejected Ballots, Half of Torn Unused Official Ballots and Other Half of Torn Unused Official Ballots (CEF No. A16) and then deposit the same inside the ballot box. Such fact shall be entered in the Minutes.
+
+SEC. 96. Disposition of Election Returns - After printing the (ERs), the EB shall sign and affix their thumbmarks in the certification portion of all copies of the ERs. Thereafter, the EB shall post one (1) copy of the ERs in a conspicuous place inside the polling place. The EB shall individually fold the ERs. The first eight (8) copies of the ERs shall be sealed with serially numbered paper seals and placed in their respective envelopes (CEF No. eq A17). All envelopes containing the ERs shall be sealed with serially numbered paper seals. The EB shall also affix their signatures on the paper seals and envelopes on the space provided. The watchers present shall, likewise, affix their signatures, giving preference to the dominant majority and minority parties, and accredited citizens' arms. The ERs shall be distributed to the following:
+(1) City or Municipal Board of Canvassers;
+(2) The Commission;
+(3) The Congress, directed to the President of the Senate (Only with respect to the election of Senators and the Party-list System)
+(4) Parish Pastoral Council for Responsible Voting (PPCRV);
+(5) National Citizen's Movement for Free Elections (NAMFREL);
+(6) Dominant majority party as determined by the Commission in accordance with law;
+(7) Dominant minority party as determined by the Commission in accordance with law;
+(8) Ballot box;
+(9) One (1) to be posted conspicuously on a wall within the premises of the polling place or counting center, as the case may be;
+(10) Provincial Board of Canvassers;
+(11) Ten (10) accredited major national parties, excluding the dominant majority and minority parties, in accordance with a voluntary agreement among them.
+(12) Two (2) accredited major local parties in accordance with a voluntary agreement among them. If no such agreement is reached, the Commission shall decide which parties shall receive the copies on the basis of the criteria analogous to that provided in Section 26 of Republic Act No. 7166;
+(13) Four (4) national broadcast or print media entities as may be equitably determined by the Commission in view of propagating the copies to the widest extent possible;
+(14) Two (2) local broadcast or print media entities as may be equitably determined by the Commission in view of propagating the copies to the widest extent possible; and
+(15) Two (2) major citizens' arms, including the accredited citizens' arm, and other non-partisan groups or organizations enlisted by the Commission, excluding PPCRV and NAMFREL. Such citizens' arms, groups, and organizations may use the two (2) certified copies of election returns for the conduct of citizens' quick counts at the local or national levels. The remaining copies shall be given to other accredited citizens's arms other than NAMFREL and PPCRV.
+
+SEC. 97. Disposition of ACM, Ballot Boxes, Election Returns and Other Documents. - When the counting of votes has ended and the results of the election in the polling place have already been announced, the EB shall:
+(a) Place inside the ballot box the following:
+(1) Sealed Envelopes containing:
+i. Copy of printed ERs intended for the ballot box; ii. Copy of the Minutes intended for the ballot box; and iii. Half of torn unused ballots; and rejected ballots, if any.
+(2) VVPAT Receptacle.
+(b) Close the flap of the ballot box with a security seal. To protect the ballots and other election documents therein from elements such as water and dust, cover the ballot box with packaging tape by wrapping the tape around the cover and extending it to the upper part of the ballot box. The EB shall affix their signatures on the tape, and require the watchers present to also affix their signatures;
+(c) Turn over the box containing the ACM and its peripherals to the logistics provider. In the absence of the logistics provider, the EB shall turn over the ACM box to the EO or the authorized representative who shall, in turn, coordinate with the logistics provider for the schedule of the retrieval thereof;
+(d) Deliver the ballot box, accompanied by watchers, to the city/ municipal treasurer. For this purpose, the city / municipal treasurer shall, at its own expense, provide at the voting center the necessary personnel and transportation facilities for the retrieval. In case the ballot box delivered by the EB is not sealed, the treasurer shall seal the ballot box, and include such fact, together with the serial number of the plastic seal used, in his/her report to the Commission; and
+(e) Deliver to the EO the following documents or papers:
+(1) EDCVL;
+(2) PCVL;
+(3) Sealed Envelope containing:
+i. Copy of the Minutes intended for the Commission (CEF No. A11); ii. Other Half of Torn Unused Official Ballots; iii. Initialization Report; iv. Precinct Audit Log Report;
+v. Precinct Statistical Report; vi. Copies of the ERs intended for the Provincial Board of Canvassers (CEF No. A17); vii. Copies of the ERs intended for Commission (CEF No. A17).
+(4) The envelope containing the main USB storage device for use by the city/ municipal board of canvassers through the Reception and Custody Group (RCG); and
+(5) Other pertinent papers and documents. After the counting of votes, the EO or the city/municipal treasurer shall require the EB, which failed to turn over the election documents or paraphernalia to deliver them immediately and inform him/her that failure to do so may constitute an election offense.
+
+ARTICLE XIII MISCELLANEOUS PROVISIONS
+
+SEC. 98. Preservation of the List of Voters. - The EO shall be responsible and accountable for the safekeeping of all EDCVLs, including all PCVLs in a safe and secure place within the office.
+
+SEC. 99. Omission or Erroneous Inclusion of Election Documents and Paraphernalia in Ballot Box. - If after sealing the ballot box, the EB discovers that some election documents required inside the ballot box are not placed therein, the EB, instead of opening the ballot box, shall deliver the said election documents to the EO. The EO shall take appropriate measures to preserve the integrity of such documents. The EO is authorized to open the ballot box to retrieve election documents, paraphernalia, and other items inadvertently placed therein. The opening of the ballot box is subject to the issuance of notice to the members of the EB, Municipal/City Treasurer, candidates, and watchers as to the time, place, and venue of the opening of the ballot box and the submission of report to the PES within two (2) days from opening the same. The PES shall, likewise, submit a report to the RED, who shall in turn submit a report to the ODEDO.
+
+SEC. 100. Sanctions. - Any person who violates or fails to comply with any of the provision of this Resolution shall be criminally or administratively liable, as the case may be.
+
+SEC. 101. Special Procedures. - Notwithstanding the express provisions of this Resolution, the Commission may, in exceptional cases, adopt special procedures in the voting, counting, transmission, consolidation, storage, custody, distribution, and retrieval of accountable forms and paraphernalia to fulfill its mandate to ensure free, orderly, honest, peaceful, and credible elections. All Annexes shall form an integral part of this Resolution and shall also be deemed approved upon the signing of this Resolution.
+
+SEC. 102. Effectivity. - This Resolution shall take effect on the seventh (7th) day after its publication in two (2) daily newspapers of general circulation in the Philippines and in the Commission website.
+
+SEC. 103. Publication and Dissemination. - The Education and Information Department (EID), this Commission, shall cause the immediate publication of this Resolution in two (2) daily newspapers of general circulation in the Philippines. Further, EID shall furnish copies thereof to all Regional Election Directors, Provincial Election Supervisors, Election Officers, the concerned offices and departments in the Main Office of the Commission, all Departments, Bureaus, Offices and Agencies concerned, including the Department of Foreign Affairs, and other government agencies maintaining offices abroad. The Information Technology Department shall post a copy of this Resolution on the website of the Commission.
+SO ORDERED.
+CERTIFICATION: APPROVED for publication on October 30, 2024. CONSUELO B. DIOLA, Director IV, Office of the COMELEC Secretary. This Resolution can be verified at this number (02) 8527-2987 and email address at comsec@comelec.gov.ph.
+
+ANNEX B AUTOMATED COUNTING MACHINE (ACM) OPERATION PROCEDURES FOR FINAL TESTING AND SEALING (FTS), ELECTION DAY AND TRANSMISSION OF ELECTION RESULTS IN CONNECTION WITH THE 12 MAY 2025 NATIONAL, LOCAL, and BANGSAMORO PARLIAMENTARY ELECTIONS.
+
+Sec.1. Scope.- This ACM OPERATION PROCEDURES shall supplement COMELEC Resolution No. 11076 dated 30 October 2024, otherwise known as "GENERAL INSTRUCTIONS FOR THE ELECTORAL BOARDS (EBS) ON THE PROCESS OF VOTING, COUNTING, AND TRANSMISSION OF ELECTION RESULTS FOR THE 12 MAY 2025 NATIONAL, LOCAL, AND BANGSAMORO PARLIAMENTARY ELECTIONS".
+
+Sec.2. Final Testing and Sealing of Automated Counting Machine (ACM). - The following procedures shall be followed during the Final Testing and Sealing (FTS) of the Automated Counting Machine (ACM). FINAL TESTING AND SEALING OF ACM
+1. Retrieve the ACM from its box. Open the ACM hardcase and verify the contents found inside the ACM hardcase against the items indicated on the checklist.
+2. Show to the public that the left compartment at the back of the ACM, where the main and backup USB tokens are individually stored, is sealed. These compartments must remain sealed throughout the entire FTS procedure.
+3. Position the ACM ballot box where the voters are convenient during voting. Attach the voter receipt receptacle to the ballot box.
+4. Properly place the ACM on top of the ballot box.
+5. Lift up the ACM monitor toward you until the screen will be in the right position and comfortable to the voters.
+6. To install the thermal paper, perform the following procedures:
+a. Place the new thermal roll into the paper roll compartment.
+b. Behind the ACM monitor, simultaneously snap the red buttons to unlock printer cover.
+c. Lift the lid cover upward to open the receipt printer.
+d. Pull out a portion of the thermal roll and place on top of the sheet feeder. Make sure it is aligned, and the thermal coating of the thermal roll is facing downwards.
+e. Close the printer cover and wait for the ACM to automatically adjust and print the edge of the paper roll.
+7. To connect the ACM Lithium battery (21.78V Li-ion) to the ACM, perform the following:
+a. Retrieve the DC Lithium battery and ACM cables.
+b. Connect the ACM cable to the AC power adapter and plug the other end into the electrical outlet.
+c. Connect the cable of the AC power adapter connector (red) to the input DC power port of the DC Lithium battery.
+d. From the battery, remove the cover of the male coaxial connector and connect to the DC female coaxial cable connector.
+e. Plug the other end into the ACM power port and then switch on the Lithium battery.
+8. Press the power-on button of the ACM to wait until the Device Information (System Information, Election Information, Precinct Information) is displayed. Press the left arrow to proceed until the EB Members Enrollment screen.
+9. Before the ACM allows the access of the voting operations and ACM features, the EB member should authenticate the ACM and require registering the EB names.
+10. The message "INSERT YOUR SMART CARD FOR OPERATION IN THE CARD SLOT" is displayed. Insert the smart card of the EB Chairperson and then enter the corresponding PIN.
+11. The ACM will now display "THE EB CHAIRPERSON AUTHENTICATION WAS SUCCESSFUL. REMOVE THE SMART CARD".
+12. Remove the smart card to proceed with the EB registration of name. From the registration screen, the ACM display "INSERT THE SMART CARD TO REGISTER THE EB MEMBER'S NAME".
+a. To register the EB Chairperson:
+• Insert the operation smart card of the EB Chairperson. Wait until the message "READING THE SMART CARD" is displayed.
+• Once the smart card is detected, the message "IF YOU HAVE A PNPKI CARD, REMOVE THE OPERATION SMART CARD, AND INSERT THE PNPKI SMART CARD, OTHERWISE, TYPE YOUR NAME AND PRESS THE 'ASSIGN' BUTTON."
+• Enter EB Chairperson's name and press the ASSIGN button. Or use the PNPKI card to extract the EB name stored in the PNPKI card.
+• If the EB Chairperson used the PNPKI card and enter the certificate password and wait until the extracted name will be displayed on the screen, edit the displayed name if necessary and then press the ‘ASSIGN' button.
+• After pressing ‘ASSIGN' button, the ACM will display "EB CHAIRPERSON NAME REGISTRATION SUCCESSFUL. REMOVE THE SMART CARD". Remove the smart card and proceed to the next EB to register.
+b. To register the EB Poll Clerk:
+• Insert the operation smart card of the EB Poll Clerk. Wait until the message "READING THE SMART CARD" is displayed. " Once the smart card is detected, the message "IF YOU HAVE A PNPKI CARD, REMOVE THE OPERATION SMART CARD, AND INSERT THE PNPKI SMART CARD. OTHERWISE, TYPE YOUR NAME AND PRESS THE 'ASSIGN' BUTTON."
+• Enter EB Poll Clerk's name and press the ASSIGN button. Or use the PNPKI card to extract the EB name stored in the PNPKI card. = If the EB Poll Clerk used the PNPKI card and enter the certificate password and wait until the extracted name will be displayed on the screen, edit the displayed name if necessary and then press the ‘ASSIGN' button.
+• After pressing ‘ASSIGN' button, the ACM will display "EB POLL CLERK NAME REGISTRATION SUCCESSFUL. REMOVE THE SMART CARD". Remove the smart card and proceed to the next registration of EB
+c. To register the EB Member:
+• Insert the operation smart card of the EB Poll Clerk. Wait until the message "READING THE SMART CARD" is displayed.
+• Once the smart card is detected, the message "IF YOU HAVE A PNPKI CARD, REMOVE THE OPERATION SMART CARD, AND INSERT THE PNPKI SMART CARD. OTHERWISE, TYPE YOUR NAME AND PRESS THE 'ASSIGN' BUTTON."
+• Enter EB Member's name and press the ASSIGN button. Or use the PNPKI card to extract the EB name stored in the PNPKI card.
+• If the EB Member used the PNPKI card and enter the certificate password and wait until the extracted name will be displayed on the screen, edit the displayed name if necessary and then press the ‘ASSIGN' button.
+• After pressing ‘ASSIGN' button, the ACM will display "EB MEMBER NAME REGISTRATION SUCCESSFUL. REMOVE THE SMART CARD". Remove the smart card to display the Main menu.
+13. From the Main menu, the ACM displays available functions on the screen depending on the status of the machine. Likewise, the ACM displays the adjustment for the volume, the information icon. From the bottom part of the screen, the ACM displays Date and Time, ACM status, transmission status, connectivity status, number of registered voters for the clustered precinct and number of scanned ballots.
+14. Check the Date and Time displayed on the lower-left corner of the screen. If the date and/or time is incorrect, perform the following procedures:
+a. Tap the UTILITES menu and select the CHANGE DATE AND TIME.
+b. The required EB members shall insert the operation card for authentication. The message "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT" will display.
+c. The Chairperson shall insert the operation smart card, a message "READING THE SMART CARD", and then a message "THE CARD INSERTED IS FOR THE EB CHAIRPERSON. ENTER THE PIN".
+d. Enter the PIN of the EB Chairperson and then the system will display message "THE EB CHAIRPERSON AUTHENTICATION WAS SUCCESSFUL. PLEASE REMOVE THE CARD". The EB Chairperson shall remove the card and will display the current date and time with OK button.
+e. Tap the displayed DATE or TIME to adjust and then press the CANCEL option to revoke the action or OK to reflect the changes made.
+f. Press OK button to return to the UTILITIES sub-menu.
+g. Press X mark in the bottom left corner of the screen to return to the Main menu.
+15. The certified IT-capable EB member shall perform the following ACM DIAGNOSTIC procedures:
+a. From the Main menu, select "DIAGNOSTICS" option;
+b. The ACM will display the "DIAGNOSTICS" menu. Tap the "RUN ALL" option; and
+c. After choosing"RUN ALL",the ACM will initially test the TOUCHSCREEN component displaying the cells in horizontal, vertical, and diagonal direction.
+• Touch each cell or draw a line on the cells before the time runs out. If the set time out is reached without touching all the cells, the ACM will automatically record the diagnostic test for the Touchscreen as "FAILED".
+• All cells that have been touched will change their color which indicates that the regions on the screen are functioning properly.
+• The ACM will automatically proceed to the next component.
+d. The ACM will automatically proceed to the next component, the AUDIO DIAGNOSTIC for speaker and headphone tests.
+• To test the ACM speaker: The ACM will automatically play the sounds on the ACM and simultaneously display "DID YOU HEAR THE SOUNDS" with volume adjustment and "NO" and "YES" buttons.
+• Press "YES" if you heard the sounds. "NO" if you did not.
+• After checking the speaker, the ACM will proceed to test the audio of the headphone.
+• If the headphone is not connected, the ACM will display the message "PLUG THE HEADPHONE TO THE HEADPHONE JACK OF THE ACM", connect the headset to the audio port to continue the test or press the X mark on the upper left portion of the screen to record the test as "SKIPPED" or press NO button to record the of audio test as "FAILED".
+• If the headphone is connected, the ACM will automatically play the sounds and display the message "DID YOU HEAR THE SOUNDS?" with volume adjustment and "NO" and "YES" buttons.
+• Press "YES" if you heard the sounds. "NO" if you did not.
+e. Now, the ACM will perform the NETWORK DIAGNOSTIC TEST FOR ETHERNET.
+• It will display the message "INSERT TRANSMISSION DEVICE TO THE ETHERNET PORT".
+• Press the "X" on the upper left screen to mark the diagnostic as "SKIPPED" if modem will be used for transmission. = Plug in the ethernet cable and wait until the Network Status detects the connection of each destination server indicating the IP address and connectivity status.
+• The message "NETWORK DIAGNOSTIC USING THE ETHERNET PORT IS COMPLETED", is displayed with "RETRY" and "OK" button.
+• Press the "RETRY" button to repeat the process or "OK" button to proceed with the diagnostic for the modem. NOTE: This applies to ACM assigned in areas using STARLINK router as transmission device.
+f. After testing the ethernet, the network diagnostic for USB MODEM shall now be performed by the ACM.
+• It will display the message "CONNECT THE USB MODEM TO THE USB PORT". The following messages shall appear in this sequence:
+• Press "X" on the upper left screen to mark the diagnostic as "SKIPPED" if ethernet will be used for transmission.
+• Plug in the ethernet cable and wait until the Network Status detects the connection of each destination server indicating its connectivity status, the IP address, and the message "NETWORK DIAGNOSTIC USING USB PORT IS COMPLETED", with "RETRY" and "OK" button.
+• Press the "RETRY" button to repeat the process or "OK" button to continue to the next component.
+g. The ACM will now proceed to the "USB PORTS DIAGNOSTIC" and the screen will display the following:
+• The total count of mounted USB;
+• A panel which contains the following:
+1. The Port number where the USB is connected;
+2. The status of the USB if detected or mounted;
+3. The properties of the connected USB.
+• A message "IS THE NUMBER OF MOUNTED USB DEVICES CORRECT?", with "NO" and "YES" buttons. = Press "YES" if you wish to continue the process, otherwise insert another USB to Port 3 or Port 4 to complete the testing of the four (4) USB ports.
+h. The ACM will automatically proceed to the "PRINTER DIAGNOSTIC".
+• At this point, the ACM will display the Total Count the image was printed and the sample image to print.
+• Press "PRINT" button to print the image on the thermal paper. Verify the printed image if the same as the displayed image on the screen.
+• The message "IS THE SAMPLE IMAGE ON THE SCREEN IS PRINTED CORRECTLY?", with "NO" and and "YES" button.
+• Press "YES" if it printed correctly, otherwise press "NO".
+• Keep the printed copy for the camera diagnostic.
+i. The ACM will now proceed to SCANNER DIAGNOSTIC and display the following information:
+1. Status and Result of the ballot to be inserted;
+2. Recognize the ballot and an option to Stamp the Ballot, and
+3. A message "INSERT THE BALLOT".
+• Insert one (1) FTS ballot.
+• On the panel for the STATUS, the ACM will display "SCANNING .... RECOGNIZING THE BALLOT".
+• After which, the ACM will display corresponding information of the ballot inserted.
+• Remove the ballot from the ballot entry slot to display the ballot images of the bottom and top view of the scanned ballot. To view the ballot image, tap the preferred side you want to zoom in.
+• The ACM likewise prompts the "DOES THE DISPLAYED BALLOT IMAGE MATCH THE INSERTED BALLOT?", with "NO" and "YES" buttons.
+• Press the "NO" or "YES" button to continue with the test.
+j. The ACM will now automatically proceed to the SMART CARD DIAGNOSTIC test displaying the required number of smart cards to test. = The message "INSERT OPERATION CARDIN THE CARD SLOT" is displayed. Insert the smart card of any of the EBs.
+• From the CARD STATUS, the ACM will display message "SUCCESSFULLY READ DATA", and at the same time, information of the inserted card will display on the panel (Card CP ID, CARD ROLE, CARD ERROR REASON)
+• Remove the inserted card and then repeat the process until all the required smart cards are tested.
+• The ACM will display the list of roles of smart card that have been tested. = After testing all the smart cards,
+k. The ACM shall now perform the diagnostic for the CAMERA.
+• Get the sample report printed during the printer diagnostic.
+• The message "PLACE THE PRINTED SAMPLE IMAGE INFRONT OF THE CAMERA' is displayed.
+• Position the QR Code opposite the camera found below the smart card slot. The content of the QR code will be displayed in the QR code value. The EB has an option to turn on the camera light by tapping on the button for the camera led = Select the option "NO" and "YES" from the displayed message "IS THE CAMERA PREVIEW CLEARLY DISPLAYED?"
+• Press the YES button to continue with the last component of the ACM.
+l. The ACM shall now proceed with the last component to be tested, the EXTERNAL KEYPAD. = The message "CONNECT THE KEYPAD AND THEN PRESS EACH OF THE SIX (6) BUTTONS" will be displayed with "NO" and "YES" option.
+• Connect the External Keypad in the USB port at the back of the ACM.
+• Press all the available keys in the external keypad. Check if the pressed symbol corresponds with the keys displayed on the screen.
+• The message "ARE THE SYMBOLS ON THE KEYPAD DISPLAYED CORRECTLY WHEN PRESSED", with "NO" and "YES" option.
+• After all keys are pressed and displayed on the screen, the "YES" button will be enabled. Press YES to continue.
+m. The summary of the result per component will display on the screen as well as the messages "GENERATING THE DIAGNOSTIC REPORT.... PRINTING THE DIAGNOSTIC REPORT" while simultaneously printing the report.
+n. Secure the printed diagnostic report and place it inside the envelope (A17- TS) provided for the purpose.
+o. After printing the diagnostic report and if some tests were skipped or has failed result, the ACM shall display the status per color:
+• GREEN: PASSED [SUCCESSFULLY COMPLETED THE TEST]
+• RED: FAILED [UNSUCCESSFUL TEST]
+• YELLOW: SKIPPED [BYPASS THE TEST]
+p. Click the X button in the bottom left part of the screen to return to the Election Menu.
+16. To start the voting process, the BEI shall open the election:
+a. Tap the OPEN VOTING button to display "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT"
+b. Insert the smart card for operation of the Chairperson which will then display the message "THE CARD INSERTED IS FOR THE EB CHAIRSPERSON. ENTER THE PIN". Enter the PIN of the EB Chairperson.
+c. After successful authentication, the message "THE EB CHAIRPERSON AUTHENTICATION WAS SUCCESSFUL"... "REMOVE THE SMART CARD" the EB Chairperson shall remove the smart card continue with the printing of the Initialization report.
+d. The messages "GENERATING THE REPORT... PRINTING THE INITIALIZATION REPORT... "will appear on the screen while simultaneously printing the Initialization Report. The report will show Zero (0) vote for each candidate including the graphic information (District/Province, city /municipality, Barangay, Voting Center, Clustered Precinct ID, Precincts in a Cluster, Machine ID, Serial Number, ACM Configuration, Number of Registered voters, Number of Ballot Counted, Number of Ballot Counted, and Number of Ballots Rejected.
+17. After printing the Initialization Report, the Chairperson, EB Member and Poll Clerk, including the representatives of the political parties, candidates, or citizens' arms present, shall affix their signatures thereon. Place the Initialization Report in the envelope (A17-TS) provided for the purpose.
+18. The ACM is now ready to accept ballots. At this time, the ACM screen will display the message "PLEASE INSERT THE BALLOT".
+19. Once the ballot is inserted, the ACM displays the following in sequence:
+a. "SCANNING THE BALLOT" message, followed by "VERIFYING THE BALLOT".
+b. The VOTE VERIFICATION SCREEN displays the voted candidates on the screen for the voter to review within the set number of seconds and an option to "RETURN" or "CAST" the ballot. Tap on "CAST" button to proceed with the voting.
+c. The succeeding messages will be displayed:
+• SAVING VOTE RESULT
+• DEPOSITING THE BALLOT IN THE BALLOT BOX
+• GENERATING THE VOTE RECEIPT
+d. The ACM prints the Vote Receipt while the "PRINTING THE VOTE RECEIPT" message is displayed.
+e. After which, the BALLOT REVIEW screen containing the actual ballot image of the ballot cast by the voter will then be displayed within the set number of seconds.
+• Scroll up to view the voted candidates for all the positions.
+• Tap on the "RIGHT ARROW" button to display the back face of the ballot.
+• Tap on the "RIGHT ARROW" button to exit.
+20. Continue with the voting process for the remaining nine (9) voters.
+21. After the ten (10) voters have cast their votes, perform CLOSE VOTING with the following procedures:
+a. Go to the MAIN MENU by inserting the smart card of any of the EB members and then select "CLOSE VOTING'.
+b. Insert the smart card for operation of the Chairperson which will then display the message "THE CARD INSERTED IS FOR THE EB CHAIRSPERSON. ENTER THE PIN".
+c. After successful authentication, remove the smart card.
+d. Insert the smart card for operation of either the Poll Clerk or EB Member which will then display the message "THE CARD INSERTED IS FOR THE <EB POSITION>. ENTER THE PIN".
+e. After successful authentication, remove the smart card.
+f. The ACM will ask to "SELECT THE EB ROLE TO DIGITALLY SIGN THE ELECTION RESULTS". Tap on the "EB CHAIRPERSON" first.
+g. The instruction "INSERT THE SMART CARD WITH THE PNPKI DIGITAL SIGNATURE IF AVAILABLE. OTHERWISE INSERT THE OPERATION SMART CARD" will be displayed.
+h. Input the corresponding PIN/Password of the card inserted and then remove the card if the PIN/ Password is accepted.
+i. Tap on either the Poll Clerk or EB Member to sign and then insert the smart card of the selected <EB Position>.
+j. Input the corresponding PIN/Password of the card inserted and then remove the card if the PIN/ Password is accepted.
+k. Tap on the "DONE" button to continue with close voting.
+22. The ACM will proceed with the generation of election results.
+a. The message "TABULATING RESULT.." and then "GENERATING THE ELECTION RETURNS FOR NATIONAL POSITIONS..." will be displayed.
+b. The printing of the nine (9) copies of Election Returns for National Positions will start, while the message "PRINTING THE ELECTION RETURNS NATIONAL 1 OF 30" is displayed
+c. Afterwards, the message "GENERATING THE ELECTION RETURNS FOR LOCAL POSITIONS..." will be displayed.
+d. The printing of the nine (9) copies of Election Returns for Local Positions will start while the message "PRINTING THE ELECTION RETURNS LOCAL 1 OF 30" is displayed.
+e. Secure the election returns and place them in the envelope provided for the purpose.
+23. Once printing is completed, the message "GENERATING DATA FOR CCS RESULTS" will be displayed following the transmission.
+24. The ACM will display message "DO YOU WANT TO TRANSMIT?" Select "SKIP TRANSMISSION". NOTE: For purposes of FTS, no transmission of election results will be performed.
+25. The ACM will then print the twenty-one (21) copies of National returns and twenty-one (21) copies of Local returns.
+NOTE: For the purpose of FTS, there will be NO printing of additional 21 copies of ERs. Tap on the "STOP PRINTING" button to cancel the printing of the ER.
+26. After skipping the printing of the twenty-one (21) copies of the National returns and twenty-one (21) copies of the Local returns, the ACM will automatically generate and print the STATISTICAL REPORT.
+27. After printing the Statistical Report, the ACM will automatically return to the MAIN MENU.
+28. Perform the VVPAT VOTE REVIEW by selecting the button displayed on the MAIN MENU.
+a. The system will ask to "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT" to authenticate the process. The <EB Position> to authenticate will be displayed at the lower portion of the screen.
+b. Enter the corresponding PIN of the inserted smart card and then remove the smart card from the card slot.
+c. On the VVPAT VOTE REVIEW SCREEN, the instructions to "SCAN QR CODE OF THE VVPAT" will be displayed. Place the VVPAT QR CODE in front of the camera, inside the yellow box.
+d. The voted candidates will be displayed on the right-side part of the screen.
+e. Tap on the "FRONT FACE" button to display the front face of the ballot image. Tap on the "RIGHT ARROW" button to display the other side of the ballot. To EXIT the screen, tap on the "RIGHT ARROW" button again.
+f. Tap on the "CONFIRM" button and continue scanning the remaining VVPATs. NOTE: The total number of VVPAT to be scanned should correspond to the total number of ballots cast.
+g. Once all the VVPAT have been scanned, the "PRINT VVPAT AUDIT REPORT" button will be enabled. Tap on the button which will automatically print two copies of the report for National Positions and two
+(2) copies for Local Positions.
+29. Perform the BALLOT REVIEW by selecting the button displayed on the MAIN MENU.
+a. The ballot image with only the voted candidates will be displayed, together with the Total Ballot Count and Current Ballot Count. Scroll up/down to view all the candidates per position.
+b. Tap on the "RIGHT ARROW" button to display the other ballot images.
+c. Tap on the" X" icon to exit the page, which will be redirected to the MAIN MENU.
+30. The Chairperson will then perform Re-Zero. From the MAIN MENU, the Chairperson will tap on the "UTILITIES" then choose the "RE-ZERO" option.
+a. The system will ask to "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT" to authenticate the process. The <EB Position> to authenticate will be displayed at the lower portion of the screen.
+b. Enter the corresponding PIN of the inserted smart card and then remove the smart card from the card slot.
+c. The screen will display instructions to "INSERT THE ZERO-OUT SMART CARD IN THE CARD SLOT" which will then ask for the corresponding PIN. Remove the Zero-out smart card.
+d. The "PROCESSING ZERO-OUT" message will be displayed, followed by "GENERATING THE ZERO-OUT REPORT".
+e. The ACM will print the Zero-Out Report, while the screen displays "PRINTING THE ZERO-OUT REPORT.
+f. Once the Zero-Out is completed, the ACM will automatically shut down.
+Sec. 3. Election Day. The following procedures shall be followed during Election Day for the Vote Counting Machine (ACM). ELECTION DAY
+1. Retrieve the ACM from its box. Open the ACM hardcase and verify the content found inside the ACM hardcase against the list indicated in the checklist.
+2. Show to the public that the left compartment at the back portion of the ACM where the main and back-up USB tokens are individually stored and are sealed. These slots shall remain sealed throughout the FTS procedure.
+3. Position the ACM ballot box where the voters are convenient during voting. Attach the voter receipt receptacle to the ballot box.
+4. Properly place the ACM on top of the ballot box.
+5. Lift-wp the ACM monitor toward you until the screen will be in the right position and comfortable to the voters
+6. To install the thermal paper, perform the following procedures:
+a. Place the new thermal roll into the paper roll compartment.
+b. Behind the ACM monitor, simultaneously snap the red buttons to unlock printer cover.
+c. Lift the lid cover upward to open the receipt printer.
+d. Pull out a portion of the thermal roll and place on top of the sheet feeder. Make sure it is aligned, and the thermal coating of the thermal roll is facing downwards.
+e. Close the printer cover and wait for the ACM to automatically adjust and print the edge of the paper roll.
+7. To connect the ACM Lithium battery (21.78V Li-ion) to the ACM, perform the following:
+a. Retrieve the DC Lithium battery and ACM cables.
+b. Connect the ACM cable to the AC power adapter and plug the other end into the electrical outlet.
+c. Connect the cable of the AC power adapter connector (red) to the input DC power port of the DC Lithium battery.
+d. From the battery, remove the cover of the male coaxial connector and connect to the DC female coaxial cable connector.
+e. Plug the other end into the ACM power port and then switch on the Lithium battery.
+8. Press the power-on button of the ACM to wait until the Device Information (System Information, Election Information, Precinct Information) is displayed. Press the left arrow to proceed until the EB Members Enrollment screen.
+9. Before the ACM allows the access of the voting operations and ACM features, the EB member should authenticate the ACM and require registering the EB names.
+10. The message "INSERT YOUR SMART CARD FOR OPERATION IN THE CARD SLOT" is displayed. Insert the smart card of the EB Chairperson and then enter the corresponding PIN.
+11. The ACM will now display "THE EB CHAIRPERSON AUTHENTICATION WAS SUCCESSFUL. REMOVE THE SMART CARD".
+12. Remove the smart card to proceed with the EB registration of name. From the registration screen, the ACM display "INSERT THE SMART CARD TO REGISTER THE EB MEMBER'S NAME".
+a. To register the EB Chairperson:
+• Insert the operation smart card of the EB Chairperson. Wait until the message "READING THE SMART CARD" is displayed.
+• Once the smart card is detected, the message "IF YOU HAVE A PNPKI CARD, REMOVE THE OPERATION SMART CARD, AND INSERT THE PNPKI SMART CARD. OTHERWISE, TYPE YOUR NAME AND PRESS THE 'ASSIGN' BUTTON."
+• Enter EB Chairperson's name and press the ASSIGN button. Or use the PNPKI card to extract the EB name stored in the PNPKI card.
+• If the EB Chairperson used the PNPKI card and enter the certificate password and wait until the extracted name will be displayed on the screen, edit the displayed name if necessary and then press the ‘ASSIGN' button. = After pressing ‘ASSIGN' button, the ACM will display "EB CHAIRPERSON NAME REGISTRATION SUCCESSFUL. REMOVE THE SMART CARD". Remove the smart card and proceed to the next EB to register.
+b. To register the EB Poll Clerk:
+• Insert the operation smart card of the EB Poll Clerk. Wait until the message "READING THE SMART CARD" is displayed.
+• Once the smart card is detected, the message "IF YOU HAVE A PNPKI CARD, REMOVE THE OPERATION SMART CARD, AND INSERT THE PNPKI SMART CARD. OTHERWISE, TYPE YOUR NAME AND PRESS THE 'ASSIGN' BUTTON."
+• Enter EB Poll Clerk's name and press the ASSIGN button. Or use the PNPKI card to extract the EB name stored in the PNPKI card.
+• If the EB Poll Clerk used the PNPKI card and enter the certificate password and wait until the extracted name will be displayed on the screen, edit the displayed name if necessary and then press the ‘ASSIGN' button.
+• After pressing ‘ASSIGN' button, the ACM will display "EB POLL CLERK NAME REGISTRATION SUCCESSFUL. REMOVE THE SMART CARD". Remove the smart card and proceed to the next registration of EB.
+c. To register the EB Member:
+• Insert the operation smart card of the EB Poll Clerk. Wait until the message "READING THE SMART CARD" is displayed. = Once the smart card is detected, the message "IF YOU HAVE A PNPKI CARD, REMOVE THE OPERATION SMART CARD, AND INSERT THE PNPKI SMART CARD. OTHERWISE, TYPE YOUR NAME AND PRESS THE 'ASSIGN' BUTTON."
+• Enter EB Member's name and press the ASSIGN button. Or use the PNPKI card to extract the EB name stored in the PNPKI card.
+• If the EB Member used the PNPKI card and enter the certificate password and wait until the extracted name will be displayed on the screen, edit the displayed name if necessary and then press the ‘ASSIGN' button.
+• After pressing ‘ASSIGN' button, the ACM will display "EB MEMBER NAME REGISTRATION SUCCESSFUL. REMOVE THE SMART CARD". Remove the smart card to display the Main menu.
+13. Check the Date and Time displayed on the lower-left corner of the screen. If the date and/or time is incorrect, perform the following procedures:
+a. Tap the UTILITES menu and select the CHANGE DATE AND TIME.
+b. The required EB members shall insert the operation card for authentication. The message "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT" will display.
+c. The Chairperson shall insert the operation smart card, a message "READING THE SMART CARD", and then a message "THE CARD INSERTED IS FOR THE EB CHAIRPERSON. ENTER THE PIN".
+d. Enter the PIN of the EB Chairperson and then the system will display message "THE EB CHAIRPERSON AUTHENTICATION WAS SUCCESSFUL. PLEASE REMOVE THE CARD". The EB Chairperson shall remove the card and will display the current date and time with OK button.
+e. Tap the displayed DATE or TIME to adjust and then press the CANCEL option to revoke the action or OK to reflect the changes made.
+f. Press OK button to return to the UTILITIES sub-menu.
+g. Press X mark in the bottom left corner of the screen to return to the Main menu.
+14. To start the voting process, the EB shall open the election:
+a. Tap the OPEN VOTING button to display "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT"
+b. Insert the smart card for operation of the Chairperson which will then display the message "THE CARD INSERTED IS FOR THE EB CHAIRSPERSON. ENTER THE PIN". Enter the PIN of the EB Chairperson.
+c. After successful authentication, the message "THE EB CHAIRPERSON AUTHENTICATION WAS SUCCESSFUL"... "REMOVE THE SMART CARD" the EB Chairperson shall remove the smart card continue with the printing of the Initialization report
+d. The messages "GENERATING THE REPORT... PRINTING THE INITIALIZATION REPORT... "will appear on the screen while simultaneously printing the Initialization Report. The report will show Zero (0) vote for each candidate including the graphic information (District/Province, city /municipality, Barangay, Voting Center, Clustered Precinct ID, Precincts in a Cluster, Machine ID, Serial Number, ACM Configuration, Number of Registered voters, Number of Ballot Counted, Number of Ballot Counted, and Number of Ballots Rejected.
+15. After printing the Initialization Report, the Chairperson, EB Member and Poll Clerk, including the representatives of the political parties, candidates, or citizens' arms present, shall affix their signatures thereon. Secure the printed Initialization report and place it in the envelope (A17-TS) provided for the purpose.
+16. The ACM is now ready to accept ballots. At this time, the ACM screen will display the message "PLEASE INSERT THE BALLOT".
+17. The ACM is now ready to accept ballots. At this time, the ACM screen will display the message "PLEASE INSERT THE BALLOT".
+18. Once the ballot is inserted, the ACM displays the following in sequence:
+a. "SCANNING THE BALLOT" message, followed by "VERIFYING THE BALLOT".
+b. The VOTE VERIFICATION SCREEN displays the voted candidates on the screen for the voter to review within the set number of seconds and an option to "RETURN" or "CAST" the ballot. Tap on "CAST" button to proceed with the voting.
+c. The succeeding messages will be displayed:
+• SAVING VOTE RESULT
+• DEPOSITING THE BALLOT IN THE BALLOT BOX " GENERATING THE VOTE RECEIPT
+d. The ACM prints the Vote Receipt while the "PRINTING THE VOTE RECEIPT" message is displayed.
+e. After which, the BALLOT REVIEW screen containing the actual ballot image of the ballot cast by the voter will then be displayed within the set number of seconds.
+• Scroll up to view the voted candidates for all the positions.
+• Tap on the "RIGHT ARROW" button to display the back face of the ballot. = Tap on the "RIGHT ARROW" button to exit.
+19. Continue with the voting process until the end of the voting time.
+20. After the voting and casting of votes, perform the CLOSE VOTING with the following procedures:
+a. Go to the MAIN MENU by inserting the smart card of any of the EB members and then select "CLOSE VOTING".
+b. Insert the smart card for operation of the Chairperson which will then display the message "THE CARD INSERTED IS FOR THE EB CHAIRSPERSON. ENTER THE PIN".
+c. After successful authentication, remove the smart card.
+d. Insert the smart card for operation of either the Poll Clerk or EB Member which will then display the message "THE CARD INSERTED IS FOR THE <EB POSITION>. ENTER THE PIN".
+e. After successful authentication, remove the smart card.
+f. The ACM will ask to "SELECT THE EB ROLE TO DIGITALLY SIGN THE ELECTION RESULTS". Tap on the "EB CHAIRPERSON" first.
+g. The instruction "INSERT THE SMART CARD WITH THE PNPKI DIGITAL SIGNATURE IF AVAILABLE. OTHERWISE INSERT THE OPERATION SMART CARD" will be displayed.
+h. Input the corresponding PIN/Password of the card inserted and then remove the card if the PIN/ Password is accepted.
+i. Tap on either the Poll Clerk or EB Member to sign and then insert the smart card of the selected <EB Position>
+j. Input the corresponding PIN/Password of the card inserted and then remove the card if the PIN/ Password is accepted.
+k. Tap on the "DONE" button to continue with close voting.
+21. The ACM will proceed with the generation of election results.
+a. The message "TABULATING RESULT.." and then "GENERATING THE ELECTION RETURNS FOR NATIONAL POSITIONS..." with percentage will be displayed.
+b. The printing of the nine (9) copies of Election Returns for National Positions will start, while the message "PRINTING THE ELECTION RETURNS NATIONAL 1 OF 30" is displayed
+c. Afterwards, the message "GENERATING THE ELECTION RETURNS FOR LOCAL POSITIONS..." with percentage will be displayed.
+d. The printing of the nine (9) copies of Election Returns for Local Positions will start while the message "PRINTING THE ELECTION RETURNS LOCAL 1 OF 30" is displayed.
+e. Secure the election returns and place them in the envelope provided for the purpose.
+22. Once printing is completed, the message "GENERATING DATA FOR CCS RESULTS" will be displayed following the transmission.
+a. The ACM will display message "DO YOU WANT TO TRANSMIT?" with "SKIP TRANSMISSION" and "START TRANSMISSION" option. To proceed, select "START TRANSMISSION" button.
+b. It will then proceed with the transmission to the following servers:
+• MBOC: [City/ Municipal CCS]
+• Central Server
+• Dominant Minority Server
+• Dominant Majority Server
+• Media Server
+• Citizen's ARMM Server 1
+• Citizen's ARMM Server 2
+c. After the transmission to different servers, the ACM will display the summary results of the transmission.
+d. Immediately after the set time-out to display the summary result, the ACM will generate and print the Transmission Report indicating the status of transmission and received per destination server.
+e. Verify the results if all servers have successfully transmitted the results "TRANSMITTED/[DATE AND TIME]" received status "RECEIVED/[DATE AND TIME]"
+23. After the transmission, it will automatically print twenty-one (21) copies of National returns and twenty-one (21) copies of Local returns and then the ACM will automatically generate and print the STATISTICAL REPORT.
+24. After printing the Statistical Report, the ACM will automatically return to the MAIN MENU. NOTE: If transmission is not successful, perform the following procedures:
+a. Check transmission device if properly connected then re-transmit the results.
+b. From the Main Menu screen, press "RE-TRANSMIT"
+c. The SERVER LIST will be displayed containing all the destination servers, buttons colored green for successful transmission and red for failed transmission/ transmission attempts.
+d. Select the destination server where to re-transmit the election results.
+e. The ACM will display the message "RETRANSMITTING THE RESULT TO [DESTINATION SERVER]" with the transmission status below. After which will display the "RETRANSMISSION OF RESULTS SUMMARY".
+f. The ACM will generate and print the Transmission Report and verify the results if all servers have the transmission — status "TRANSMITTED/[DATE AND TIME]" received status "RECEIVED/[DATE AND TIME]"
+25. Perform the VVPAT VOTE REVIEW by selecting the button displayed on the MAIN MENU.
+a. The system will ask to "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT" to authenticate the process. The <EB Position> to authenticate will be displayed at the lower portion of the screen.
+b. Enter the corresponding PIN of the inserted smart card and then remove the smart card from the card slot.
+c. On the VVPAT VOTE REVIEW SCREEN, the instructions to "SCAN QR CODE OF THE VVPAT" will be displayed. Place the VWPAT QR CODE in front of the camera, inside the yellow box.
+d. The voted candidates will be displayed on the right-side part of the screen.
+e. Tap on the "FRONT FACE" button to display the front face of the ballot image. Tap on the "RIGHT ARROW" button to display the other side of the ballot. To EXIT the screen, tap on the "RIGHT ARROW" button again.
+f. Tap on the "CONFIRM" button and continue scanning the remaining VVPATs. NOTE: The total number of VVPAT to be scanned should correspond to the total number of ballots cast.
+g. Once all the VVPAT have been scanned, the "PRINT VVPAT AUDIT REPORT" button will be enabled. Tap on the button which will automatically print two copies of the report for National Positions and two (2) copies for Local Positions.
+26. Perform the BALLOT REVIEW by selecting the button displayed on the MAIN MENU.
+a. The ballot image with only the voted candidates will be displayed, together with the Total Ballot Count and Current Ballot Count.
+b. Scroll wp/ down to view all the candidates per position.
+c. Tap on the "RIGHT ARROW" button to display the other ballot images.
+d. Tap on the "X" icon to exit the page, which will be redirected to the MAIN MENU.
+27. To print the Audit Log Report, perform the following procedures:
+a. From the MAIN MENU, tap on "REPORTS" which will display all the reports that can be reprinted.
+b. Select the "AUDIT LOG REPORT" button.
+c. The Start and End Date and Time will be displayed.
+d. To change the start/end date and time, tap on the Date and/or Time values, select the correct date and time and then tap on the "PRINT" button. Otherwise, tap on the "CHECKBOX" beside the "SELECT ALL RANGE' to start the printing.
+e. After printing, the screen will return to the "REPORTS" sub-menu
+f. Tap on the X mark to go to the MAIN MENU.
+28. The Chairperson will then perform the FINAL BACKUP. From the MAIN MENU, the Chairperson will choose the "FINAL BACKUP" button.
+a. The system will ask to "INSERT THE SMART CARD FOR OPERATION IN THE CARD SLOT" to authenticate the process. The <EB Position> to authenticate will be displayed at the lower portion of the screen.
+b. Enter the corresponding PIN of the inserted smart card and then remove the smart card from the card slot.
+c. The message "PROCESSING FINAL BACKUP" will be displayed.
+d. Once completed, the ACM displays a confirmation message "FINAL BACKUP SUCCESSFUL. PRESS THE OK BUTTON TO SHUTDOWN THE ACM".
+Sec. 4. Authority of the Commission to Adopt Additional Procedures. - The Commission may adopt additional ACM operation procedures in the voting, counting and transmission to fulfil its Constitutional mandate to ensure free, orderly, honest, and peaceful and credible elections.

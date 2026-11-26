@@ -1,0 +1,402 @@
+[
+  {
+    "query": "What are the qualifications of official watchers under COMELEC Resolution No. 11076?",
+    "top_5": [
+      {
+        "chunk_id": "comres11076_ARTICLE_III_SEC_15",
+        "section_key": "comres_11076::ARTICLE_III::SEC_15",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE III WATCHERS",
+        "section": "SEC. 15",
+        "page_range": [
+          11,
+          12
+        ],
+        "rrf_score": 0.03227,
+        "dense_score": 0.684,
+        "bm25_score": 18.1285,
+        "preview": "SEC. 15. Watchers. - The following persons are qualified to serve as watchers:  (a) Registered voter of the city or municipality where the watcher is assigned; "
+      },
+      {
+        "chunk_id": "comres11076_ARTICLE_XI_SEC_86",
+        "section_key": "comres_11076::ARTICLE_XI::SEC_86",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE XI INDIGENOUS PEOPLES (IP) VOTING IN ACCESSIBLE VOTING CENTER AND SEPARATE POLLING PLACE",
+        "section": "SEC. 86",
+        "page_range": [
+          46,
+          46
+        ],
+        "rrf_score": 0.03227,
+        "dense_score": 0.6394,
+        "bm25_score": 19.6639,
+        "preview": "SEC. 86. Appointment, Qualifications, Rights and Duties of Watchers in the AVC, E-SPP, & C-SPP. - The appointment, qualifications, rights and duties of watchers"
+      },
+      {
+        "chunk_id": "comres11076_ARTICLE_X_SEC_69",
+        "section_key": "comres_11076::ARTICLE_X::SEC_69",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE X",
+        "section": "SEC. 69",
+        "page_range": [
+          40,
+          40
+        ],
+        "rrf_score": 0.03175,
+        "dense_score": 0.6541,
+        "bm25_score": 17.6196,
+        "preview": "SEC. 69. Official Watchers of Candidates, Political Parties, Media Representatives, and Other Groups. - The provisions on watchers of candidates, political part"
+      },
+      {
+        "chunk_id": "comres11076_ARTICLE_III_SEC_16_part1",
+        "section_key": "comres_11076::ARTICLE_III::SEC_16",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE III WATCHERS",
+        "section": "SEC. 16",
+        "page_range": [
+          12,
+          13
+        ],
+        "rrf_score": 0.03151,
+        "dense_score": 0.6249,
+        "bm25_score": 19.4299,
+        "preview": "SEC. 16. Rights and Duties of Watchers. - Upon entering the polling place, the watchers shall present to the Chairperson of the EB their appointments as watcher"
+      },
+      {
+        "chunk_id": "comres11076_ARTICLE_III_SEC_14",
+        "section_key": "comres_11076::ARTICLE_III::SEC_14",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE III WATCHERS",
+        "section": "SEC. 14",
+        "page_range": [
+          11,
+          11
+        ],
+        "rrf_score": 0.03054,
+        "dense_score": 0.6242,
+        "bm25_score": 15.8536,
+        "preview": "ARTICLE III WATCHERS  SEC. 14. Official Watchers of Candidates, Political Parties, and Other Groups. - Each candidate, duly registered political party or coalit"
+      }
+    ]
+  },
+  {
+    "query": "What is CEF No. A35 and how many copies are prepared?",
+    "top_5": [
+      {
+        "chunk_id": "comres11076_ANNEX_H_part3",
+        "section_key": "comres_11076::ANNEX_H",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ANNEX H: Election Forms, Documents and Supplies for AVC and E-SPP",
+        "section": "ANNEX H",
+        "page_range": [
+          90,
+          90
+        ],
+        "rrf_score": 0.03252,
+        "dense_score": 0.5576,
+        "bm25_score": 15.9297,
+        "preview": "| CEF NO. | FORMS AND SUPPLIES | QUANTITY | UNIT | ALLOCATION | |----------------|------------------------------------------------------------------------------"
+      },
+      {
+        "chunk_id": "comres11076_C_E_Form_A35",
+        "section_key": "comres_11076::C_E_Form_A35",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "C.E. Form A35: Certificate of Challenge/Protest and Decision of the Board",
+        "section": "C.E. Form A35",
+        "page_range": [
+          96,
+          96
+        ],
+        "rrf_score": 0.03062,
+        "dense_score": 0.5575,
+        "bm25_score": 13.1998,
+        "preview": "Republic of the Philippines COMMISSION ON ELECTIONS  MAY 12, 2025 NATIONAL, LOCAL AND BARMM ELECTIONS  CERTIFICATE OF CHALLENGE/PROTEST AND DECISION OF THE ELEC"
+      },
+      {
+        "chunk_id": "comres11076_ANNEX_I_part2",
+        "section_key": "comres_11076::ANNEX_I",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ANNEX I: Election Forms, Documents and Supplies for SVR of C-SPP",
+        "section": "ANNEX I",
+        "page_range": [
+          93,
+          93
+        ],
+        "rrf_score": 0.03054,
+        "dense_score": 0.5198,
+        "bm25_score": 14.6523,
+        "preview": "| CEF NO. | FORMS AND SUPPLIES | | UNIT | ALLOCATION | |----------------|---------------------------------------------------------------------------------------"
+      },
+      {
+        "chunk_id": "comres11076_ANNEX_E_part1",
+        "section_key": "comres_11076::ANNEX_E",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ANNEX E: Election Forms, Documents and Supplies for PPP and S-PPP",
+        "section": "ANNEX E",
+        "page_range": [
+          82,
+          82
+        ],
+        "rrf_score": 0.03033,
+        "dense_score": 0.5027,
+        "bm25_score": 15.6681,
+        "preview": "N SA MRIGING PLPID  Republic of the Philippines COMMISSION ON ELECTIONS  MAY 12, 2025 NATIONAL, LOCAL AND BARMM ELECTIONS  ELECTION FORMS, DOCUMENTS AND SUPPLIE"
+      },
+      {
+        "chunk_id": "comres11076_ANNEX_H_part2",
+        "section_key": "comres_11076::ANNEX_H",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ANNEX H: Election Forms, Documents and Supplies for AVC and E-SPP",
+        "section": "ANNEX H",
+        "page_range": [
+          90,
+          90
+        ],
+        "rrf_score": 0.02985,
+        "dense_score": 0.5103,
+        "bm25_score": 13.843,
+        "preview": "| CEF NO. | FORMS AND SUPPLIES | QUANTITY | UNIT | ALLOCATION | |----------------|------------------------------------------------------------------------------"
+      }
+    ]
+  },
+  {
+    "query": "What is the maximum airtime limit for national candidates under the Fair Election Act IRR?",
+    "top_5": [
+      {
+        "chunk_id": "comres11086_SECTION_11_part2",
+        "section_key": "comres_11086::SECTION_11",
+        "source_file": "comres_11086_2024.pdf",
+        "article": "General Provisions",
+        "section": "SECTION 11",
+        "page_range": [
+          11,
+          11
+        ],
+        "rrf_score": 0.03175,
+        "dense_score": 0.6503,
+        "bm25_score": 21.261,
+        "preview": "| Elective Position | appearing on national, regional, or local, free or cable television, and ninety (90) minutes of radio advertising, on a per station basis,"
+      },
+      {
+        "chunk_id": "comres11086_SECTION_15",
+        "section_key": "comres_11086::SECTION_15",
+        "source_file": "comres_11086_2024.pdf",
+        "article": "General Provisions",
+        "section": "SECTION 15",
+        "page_range": [
+          15,
+          16
+        ],
+        "rrf_score": 0.03083,
+        "dense_score": 0.5818,
+        "bm25_score": 22.5308,
+        "preview": "SECTION 15. Affirmative Action by the COMELEC. - The COMELEC shall procure print space and airtime as follows:  (a)Print Space  The COMELEC, through the EID, sh"
+      },
+      {
+        "chunk_id": "comres11086_SECTION_19",
+        "section_key": "comres_11086::SECTION_19",
+        "source_file": "comres_11086_2024.pdf",
+        "article": "General Provisions",
+        "section": "SECTION 19",
+        "page_range": [
+          17,
+          17
+        ],
+        "rrf_score": 0.03028,
+        "dense_score": 0.5488,
+        "bm25_score": 23.6171,
+        "preview": "SECTION 19. Regulation of Election Propaganda through Mass Media. - In all instances, the COMELEC shall supervise the use and employment of press, radio, online"
+      },
+      {
+        "chunk_id": "comres11086_SECTION_11_part3",
+        "section_key": "comres_11086::SECTION_11",
+        "source_file": "comres_11086_2024.pdf",
+        "article": "General Provisions",
+        "section": "SECTION 11",
+        "page_range": [
+          11,
+          12
+        ],
+        "rrf_score": 0.02991,
+        "dense_score": 0.6109,
+        "bm25_score": 19.0402,
+        "preview": "(b) Printed or Published Election Propaganda  The maximum size of print advertisements for each candidate, whether for a national or local elective positions, o"
+      },
+      {
+        "chunk_id": "comres11086_Preamble",
+        "section_key": "comres_11086::Preamble",
+        "source_file": "comres_11086_2024.pdf",
+        "article": "General Provisions",
+        "section": "Preamble",
+        "page_range": [
+          1,
+          2
+        ],
+        "rrf_score": 0.02988,
+        "dense_score": 0.5701,
+        "bm25_score": 20.7746,
+        "preview": "REPUBLIC OF THE PHILIPPINES COMMISSION ON ELECTIONS Intramuros, Manila  RULES AND REGULATIONS IMPLEMENTING REPUBLIC ACT NO. 9006, OTHERWISE KNOWN AS THE \"FAIR E"
+      }
+    ]
+  },
+  {
+    "query": "Ano ang Gawad ng Kapahintulutan o Pagpapaubaya para sa PPP voters?",
+    "top_5": [
+      {
+        "chunk_id": "comres11076_ARTICLE_IX_SEC_50",
+        "section_key": "comres_11076::ARTICLE_IX::SEC_50",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE IX PRIORITY POLLING PLACE (PPP) VOTING",
+        "section": "SEC. 50",
+        "page_range": [
+          33,
+          33
+        ],
+        "rrf_score": 0.03202,
+        "dense_score": 0.6407,
+        "bm25_score": 27.2919,
+        "preview": "SEC. 50. Preliminaries to Voting at the PPP. - One of the PPP Support Staff shall explain to the voters who choose to vote in the PPP that/of:  (a) They have th"
+      },
+      {
+        "chunk_id": "comres11076_ANNEX_D_D_1_part1",
+        "section_key": "comres_11076::ANNEX_D_D_1",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ANNEX D / D-1: Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya)",
+        "section": "ANNEX D / D-1",
+        "page_range": [
+          80,
+          81
+        ],
+        "rrf_score": 0.03202,
+        "dense_score": 0.609,
+        "bm25_score": 53.3386,
+        "preview": "Republic of the Philippines COMMISSION ON ELECTIONS  MAY12, 2025 NATIONAL, LOCAL AND BARMM ELECTIONS  Barangay:  Municipality:  Province:  Region:  Voting Cente"
+      },
+      {
+        "chunk_id": "comres11076_ANNEX_E_part4",
+        "section_key": "comres_11076::ANNEX_E",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ANNEX E: Election Forms, Documents and Supplies for PPP and S-PPP",
+        "section": "ANNEX E",
+        "page_range": [
+          83,
+          83
+        ],
+        "rrf_score": 0.032,
+        "dense_score": 0.6398,
+        "bm25_score": 29.5495,
+        "preview": "| Gawad ng Kapahintulutuan/ Pagpapaubaya (Waiver and Authorization Forms) Signages | 1 | piece | per PPP/ S-d-P | |---------------------------------------------"
+      },
+      {
+        "chunk_id": "comres11076_ARTICLE_IX_SEC_57_part1",
+        "section_key": "comres_11076::ARTICLE_IX::SEC_57",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE IX PRIORITY POLLING PLACE (PPP) VOTING",
+        "section": "SEC. 57",
+        "page_range": [
+          34,
+          35
+        ],
+        "rrf_score": 0.03102,
+        "dense_score": 0.619,
+        "bm25_score": 24.4839,
+        "preview": "SEC. 57. Voting Procedures in the PPP/S-PPP. - The following voting procedures shall be observed in the PPP:  A. The PPP Support Staff 1 shall:  (1) Inspect the"
+      },
+      {
+        "chunk_id": "comres11076_ARTICLE_IX_SEC_57_part2",
+        "section_key": "comres_11076::ARTICLE_IX::SEC_57",
+        "source_file": "comres_11076_2024.pdf",
+        "article": "ARTICLE IX PRIORITY POLLING PLACE (PPP) VOTING",
+        "section": "SEC. 57",
+        "page_range": [
+          35,
+          36
+        ],
+        "rrf_score": 0.02942,
+        "dense_score": 0.5842,
+        "bm25_score": 23.5209,
+        "preview": "(3) Upon reaching the clustered precinct, turn over the Waiver and Authorization Form (Gawad ng Kapahintulutan/Pagpapaubaya) (\"ANNEX D\") and the ID card or any "
+      }
+    ]
+  },
+  {
+    "query": "Who may exercise suffrage under Article V of the 1987 Philippine Constitution?",
+    "top_5": [
+      {
+        "chunk_id": "const1987_V_Sec_1",
+        "section_key": "const_1987::ARTICLE V::Sec 1",
+        "source_file": "Philippines_1987-en.pdf",
+        "article": "ARTICLE V. SUFFRAGE",
+        "section": "Sec 1",
+        "page_range": [
+          13,
+          13
+        ],
+        "rrf_score": 0.03279,
+        "dense_score": 0.7244,
+        "bm25_score": 34.5336,
+        "preview": "ARTICLE V. SUFFRAGE — Sec 1  Suffrage may be exercised by all citizens of the Philippines not otherwise disqualified by law, who are at least eighteen years of "
+      },
+      {
+        "chunk_id": "const1987_V_Sec_2",
+        "section_key": "const_1987::ARTICLE V::Sec 2",
+        "source_file": "Philippines_1987-en.pdf",
+        "article": "ARTICLE V. SUFFRAGE",
+        "section": "Sec 2",
+        "page_range": [
+          13,
+          13
+        ],
+        "rrf_score": 0.03105,
+        "dense_score": 0.6351,
+        "bm25_score": 27.9783,
+        "preview": "ARTICLE V. SUFFRAGE — Sec 2  The Congress shall provide a system for securing the secrecy and sanctity of the ballot as well as a system for absentee voting by "
+      },
+      {
+        "chunk_id": "const1987_XVII_Sec_2",
+        "section_key": "const_1987::ARTICLE XVII::Sec 2",
+        "source_file": "Philippines_1987-en.pdf",
+        "article": "ARTICLE XVII. AMENDMENTS OR REVISIONS",
+        "section": "Sec 2",
+        "page_range": [
+          53,
+          53
+        ],
+        "rrf_score": 0.0292,
+        "dense_score": 0.6236,
+        "bm25_score": 17.4917,
+        "preview": "ARTICLE XVII. AMENDMENTS OR REVISIONS — Sec 2  Amendments to this Constitution may likewise be directly proposed by the people through initiative upon a petitio"
+      },
+      {
+        "chunk_id": "const1987_IV_Sec_1",
+        "section_key": "const_1987::ARTICLE IV::Sec 1",
+        "source_file": "Philippines_1987-en.pdf",
+        "article": "ARTICLE IV. CITIZENSHIP",
+        "section": "Sec 1",
+        "page_range": [
+          12,
+          13
+        ],
+        "rrf_score": 0.02848,
+        "dense_score": 0.6128,
+        "bm25_score": 18.8491,
+        "preview": "ARTICLE IV. CITIZENSHIP — Sec 1  The following are citizens of the Philippines:  1. Those who are citizens of the Philippines at the time of the adoption of thi"
+      },
+      {
+        "chunk_id": "const1987_IV_Sec_4",
+        "section_key": "const_1987::ARTICLE IV::Sec 4",
+        "source_file": "Philippines_1987-en.pdf",
+        "article": "ARTICLE IV. CITIZENSHIP",
+        "section": "Sec 4",
+        "page_range": [
+          13,
+          13
+        ],
+        "rrf_score": 0.02711,
+        "dense_score": 0.612,
+        "bm25_score": 16.494,
+        "preview": "ARTICLE IV. CITIZENSHIP — Sec 4  Citizens of the Philippines who marry aliens shall retain their citizenship, unless by their act or omission they are deemed, u"
+      }
+    ]
+  }
+]
